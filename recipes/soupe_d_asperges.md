@@ -1,5 +1,5 @@
 # Soupe d'Asperges
-
+![image](img/soupe_d_asperges4.jpg)
 ## Ingrédients
 * 1 botte d'asperges
 * 1 oignon
