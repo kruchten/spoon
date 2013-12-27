@@ -1,0 +1,12 @@
+{
+    "title": "Recipe title",
+    "ingredients": [
+        {"quantity": "1 ml", "thing": "salt"},
+        {"quantity": "2", "thing": "eggs"}
+    ],
+    "steps": [
+        "Look at the ingredients",
+        "Mix them together",
+        "Pepper to taste"
+    ]
+}
