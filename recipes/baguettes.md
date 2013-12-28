@@ -15,8 +15,7 @@ Hydration: 64% (par exemple: 1,000g farine = 640 g eau)
 300 g eau,
 300 g farine,
 6 g levure sèche,
-couvrir, laisser reposer 6 à 12h, temp. 23-25C
-
+couvrir, laisser reposer 6 à 12h, temp. 23-25C  
 ![image](img/baguettes4.jpg)
 
 2. Frasage:
@@ -34,36 +33,34 @@ température cible=25C
 
 4. Pointage  (2ème fermentation)
 2 heures à 25 C, couvert
-Rabattre 1 ou 2 fois (aprés 20 minutes, et 60 minutes)
-
+Rabattre 1 ou 2 fois (aprés 20 minutes, et 60 minutes)  
 ![image](img/baguettes7.jpg)
 
 5. Boulage:
-Dégazer. Diviser en pâtons, faire des boules allongées
-
+Dégazer. Diviser en pâtons, faire des boules allongées  
 ![image](img/baguettes3.jpg)
 
 6. Détente:
 20 min couvert  
 
 7. Façonnage: 
-Faire des baguettes (voir youtube videos)
+Faire des baguettes (voir  [youtube videos](http://www.youtube.com/watch?v=fdNRogR10nM))
 
 8. Apprêt (= 3ième fermentation):
 40 min a 1h30 couvert, t=18C min
-Mettre le four à chauffer 550F = 260C;
-1 tasse eau dans une lèche-frite
-
+Mettre le four à chauffer 550F = 260C;  
 ![image](img/baguettes2.jpg)
 
 9. Grigne:
-avec un couteau très affuté, ou mieux: une lame de rasoir
-
+avec un couteau très affuté, ou mieux: une lame de rasoir  
 ![image](img/baguettes6.jpg)
 
-10. Cuisson: 26 min. Démarrer à 550F; vapeur+
+10. Cuisson: 26 min. Démarrer à 550F; 
+Quand chaud, jeter 1 tasse d'eau dans une lèche-frite  
+ pour vapeur+
 Baisser  temp. 475F après 6 min
 
 11. Resuage:
 Sur une grille.
-25 min
+25 min  
+![image](img/baguettes8.jpg)
