@@ -1,3 +1,7 @@
+---
+layout: post
+title: Kugelhopf 
+---
 # Kugelhopf
 
 La brioche alsatienne traditionelle du dimanche matin.
