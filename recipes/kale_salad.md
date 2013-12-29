@@ -3,8 +3,8 @@
 ##Ingredients
 * 1 pack fresh goat cheese
 * 1 or 2 bunch of kale
-* walnut or pecans, 2 handfuls
-* 2 very ripe pears
+* 2 handfuls of walnut (or pecan nuts)
+* 2 very ripe Bosc pears
 * Olive oil
 * Balsamic vinegar
 

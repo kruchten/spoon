@@ -12,12 +12,14 @@ Par personne:
 
 ##Préparation
 1. Peler les bananes
-* Couper les bananes en deux dans le sens de la longueur
+* Couper les bananes en deux dans le sens de la longueur   
+![image](img/bananes_flambees3.jpg)
 * Mettre du beurre dans une poële
 * Faire revenir les bananes dans le beurre, commençant par le côté plat
 * Saupoudrer une peu de sucre sur chaque demi-banane
 * Ajouter le jus d'orange
-* Mouiller avec le rhum et allumer pour faire flamber
+* Mouiller avec le rhum et allumer pour faire flamber   
+![image](img/bananes_flambees2.jpg)
 * Servir avec une boule de glace et arroser avec le jus de cuisson
 
 
