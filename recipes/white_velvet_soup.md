@@ -18,14 +18,15 @@
 * Coat in olive oil with salt and pepper
 * Dispose on baking sheet
 * Roast in oven for about 40 minutes
-* Whilte still,n a blender, cauliflower mix, stock, lemon juice and beans
-* Blend to desired consistency, mixing in more stock
+* While still hot, in a blender put cauliflower mix, stock, lemon juice and beans
+* Blend to desired consistency, mixing in more stock if necessary
 
 ##Serving
-Serve in bowl, with drizzle of olive oil and paprika
+Serve in bowl, with a drizzle of olive oil and paprika
 
 ###Notes
-You can use any kind of beans: lima beans, white kidney beans, etc.
+You can use any kind of beans: lima beans, white kidney beans, etc.  
+Avoid eating everything just out of the oven. Remember you are making a soup.
 
 #####Tags
 soup, vegan, Alice
