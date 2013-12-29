@@ -24,11 +24,15 @@
 * Ajouter les segments dans la casserole  
 ![image](img/soupe_d_asperges3.jpg)
 
-* Recouvrir de bouillon
+* Recouvrir de bouillon, et cuire 30 minutes (plus si asperges très ligneuses)
 * Mettre un peu de jus de citron et du cognac
 * Passer au mixer très fin, avec de la crême
-* Ebouillanter les têtes  
+* Ebouillanter les têtes d'asperges 3 à 5 minutes   
 ![image](img/soupe_d_asperges1.jpg)
 
-* Servir avec les têtes et de la crême pour décorer
+* Servir avec les têtes et de la crême pour décorer et évetuellement du zeste de citron râpé.
+
+###Notes
+Peut être servir glacé en été.
+
 
