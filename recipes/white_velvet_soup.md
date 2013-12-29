@@ -1,4 +1,5 @@
 #White velvet soup
+![image](img/white_velvet_soup1.jpg)
 
 ##Ingredients
 * 1 large head of cauliflower
@@ -17,7 +18,7 @@
 * Coat in olive oil with salt and pepper
 * Dispose on baking sheet
 * Roast in oven for about 40 minutes
-* In a blender, cauliflower mix, stock, lemon juice and beans
+* Whilte still,n a blender, cauliflower mix, stock, lemon juice and beans
 * Blend to desired consistency, mixing in more stock
 
 ##Serving
