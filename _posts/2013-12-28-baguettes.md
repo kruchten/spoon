@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Baguettes 
+title: Baguettes
+ 
 ---
 # Baguettes
 ![image](img/baguettes1.jpg)
