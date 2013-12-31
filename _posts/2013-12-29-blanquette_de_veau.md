@@ -21,7 +21,7 @@ title: Blanquette de veau
 * 20 cl de crême   
 ![image](img/blanquette2.jpg)   
 
-#Préparation
+##Préparation
 1. Peler l'oignon, et piquer les clous de girofle sur le sommet
 2. Peler la carotte, couper-la en deux
 3. Peler le morceau de céleri
