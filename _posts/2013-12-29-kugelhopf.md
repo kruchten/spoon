@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Kugelhopf 
+
 ---
 # Kugelhopf
 
@@ -49,3 +50,5 @@ Pour un moule à kugelhopf de 20 cm de diamètre:
 1. Démouler et garnir de sucre glace.
 
 Délicieux avec de la confiture de framboise.
+###Notes
+Si on met ensemble le lait + levure et les oeufs, on obtient àpeu près 340 g de liquide, soit un taux d'hydration de 68%. Comme il y a du beurre en plus, cela fait environ 72%, soit une pâte assez liquide.
