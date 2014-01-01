@@ -5,7 +5,7 @@ title: Kugelhopf
 ---
 # Kugelhopf
 
-La brioche alsatienne traditionelle du dimanche matin.   
+La brioche alsacienne traditionelle du dimanche matin.   
 ![fini](img/kugelhopf8.jpg)
 ## Ustensiles
 
