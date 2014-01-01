@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Zoé's chicken (or tofu) 
+title: Zoé's chicken
 
 ---
 
@@ -25,4 +25,4 @@ Served
 
 
 #####Tags
-Zoé, main, Noël2013
+Zoé, main, Noël2013, vegetarian

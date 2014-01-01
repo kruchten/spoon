@@ -18,19 +18,21 @@ La potée alsatienne traditionelle, qu'on traduit par "four du boulanger". Le jo
 * 1 branche de thym
 * 1 feuille de laurier
 * 1 clou de girofle
-* 100 g de farine
+* 100 g de farine   
+![image](img/baeckeoffe1.jpg)
 
 #Préparation
 1. Couper la viande en gros cubes
 2. Peler et émincer les oignons
 3. Peler et couper la carrote
-4. Dans un grand bol mettre la viande, oignon, thym, clou de girofle, feuille de laurier, sel, poivre, et recouvrir de vin blanc
+4. Dans un grand bol mettre la viande, oignon, thym, clou de girofle, feuille de laurier, sel, poivre, et recouvrir de vin blanc   
+![image](img/baeckeoffe2.jpg)
 5. Laisser mariner 12 heures (6 h. min)
 6. Préchauffer le four à 400°F (200°C)
 7. Passer la marinade
 8. Frotter la terrine avec de l'ail
 9. Peler les pommes de terre, et les couper en lamelles (6-7 mm d'épaisseur)
-10. Dans la terrine mettre une couche de pommes de terre, une couch d'aigon, puis la viande, puis encore de l'oignon et de pommes de gterre.
+10. Dans la terrine mettre une couche de pommes de terre, une couche d'oignon, puis la viande, puis encore de l'oignon et de pommes de gterre.
 11. Bien serrer pommes de terres, oignons et carottes.
 12. Puis recouvrir avec le vin de la marinade (compléter si besoin est)
 13. Mettre une feuille de laurier.
