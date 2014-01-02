@@ -1,10 +1,10 @@
 ---
 layout: recipe
-title: Zoé's chicken
+title: Zozo's basil chicken
 
 ---
 
-#Zoé's chicken or tofu
+#Zozo's basil chicken or tofu
 ![image](img/zoe_chicken_or_tofu4.jpg)
 
 ##Ingredients
@@ -13,8 +13,8 @@ title: Zoé's chicken
 * 2 cuillères à soupe de moutarde de Dijon
 * 1 cuillère à soupe de miel
 * 1-2 cuillères à café de zeste de citron
-* 1/4 tasse de jus de citron frais ( le jus d'environ 2 citrons )
-* 2-3 cuillère à soupe d'huile d'olive 
+* 1/4 tasse de jus de citron frais (le jus d'environ 2 citrons)
+* 2-3 cuillères à soupe d'huile d'olive 
 * 1/2 cuillère à café de sel de mer
 * 1/4 cuillère à café de poivre noir moulu
 * 3 gousses d'ail, hachées   
