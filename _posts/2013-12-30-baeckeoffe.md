@@ -30,13 +30,17 @@ La potée alsacienne traditionelle, qu'on traduit par "four du boulanger". Le jo
 5. Laisser mariner 12 heures (6 h. min)
 6. Préchauffer le four à 400°F (200°C)
 7. Passer la marinade
-8. Frotter la terrine avec de l'ail
+8. Frotter la terrine avec de l'ail   
+![image](img/baeckeoffe3.jpg)
 9. Peler les pommes de terre, et les couper en lamelles (6-7 mm d'épaisseur)
-10. Dans la terrine mettre une couche de pommes de terre, une couche d'oignon, puis la viande, puis encore de l'oignon et de pommes de terre.
+10. Dans la terrine mettre une couche de pommes de terre, une couche d'oignon, puis la viande, puis encore de l'oignon et de pommes de terre.   
+![image](img/baeckeoffe4.jpg)
 11. Bien serrer pommes de terre, oignons et carottes.
-12. Puis recouvrir avec le vin de la marinade (compléter si besoin est)
+12. Puis recouvrir avec le vin de la marinade (compléter si besoin est)   
+![image](img/baeckeoffe5.jpg)
 13. Mettre une feuille de laurier.
-14. Préparer un peu de pâte avec de la farine et de l'eau et sceller la terrine ("luter").
+14. Préparer un peu de pâte avec de la farine et de l'eau et sceller la terrine ("luter").   
+![image](img/baeckeoffe6.jpg)
 15. Cuire 2 heures et demi, ou plus.
 
 ####Tags

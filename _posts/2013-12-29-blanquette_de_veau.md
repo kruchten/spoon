@@ -19,13 +19,15 @@ title: Blanquette de veau
 * 2 cuillers de farine
 * 40 g de beurre
 * 20 cl de crême   
+* un os (optionel)   
 ![image](img/blanquette2.jpg)   
 
 ##Préparation
 1. Peler l'oignon, et piquer les clous de girofle sur le sommet
 2. Peler la carotte, couper-la en deux
 3. Peler le morceau de céleri
-4. Dans une cocotte, faire revenir le veau dans un peu d'huile
+4. Dans une cocotte, faire revenir le veau dans un peu d'huile   
+![image](img/blanquette4.jpg) 
 5. Ajouter les légumes et herbes, et mouiller de vin
 6. Recouvrir juste a raz avec de l'eau
 7. Saler et poivrer

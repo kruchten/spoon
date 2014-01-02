@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title: Soupe d'asperges 
+title: Crême d'asperges 
 ---
 
-# Soupe d'asperges
+# Crême d'asperges
 ![image](img/soupe_d_asperges4.jpg)
 ## Ingrédients
 
@@ -13,7 +13,8 @@ title: Soupe d'asperges
 * 0.6 l de bouillon (poule ou légume)
 * thym
 * 1 carotte (optionel)
-* citron (opt.)
+* 1 pomme de terre (opt.)
+* 1 citron (opt.)
 * Cognac (opt.)
 * Crême  
 
@@ -22,11 +23,14 @@ title: Soupe d'asperges
 ## Préparation
 1. Emincer oignon et ail
 * Faire revenir dans de l'huile (d'olive)
-* Séparer les têtes d'asperges
+* Séparer les têtes d'asperges   
+![image](img/soupe_d_asperges6.jpg)
 * Couper le reste en petits segments  
 ![image](img/soupe_d_asperges2.jpg)
-* Ajouter les segments dans la casserole  
+* Ajouter les segments dans la casserole   
 ![image](img/soupe_d_asperges3.jpg)
+* Puis la carotte et la pomme de terre en morceaux   
+![image](img/soupe_d_asperges7.jpg)
 * Recouvrir de bouillon, et cuire 30 minutes (plus, si les asperges sont très ligneuses)
 * Mettre un peu de jus de citron et du cognac
 * Passer au mixer très fin, avec de la crême
