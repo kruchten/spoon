@@ -7,7 +7,7 @@ title: Zozo's basil chicken
 #Zozo's basil chicken or tofu
 ![image](img/zoe_chicken_or_tofu4.jpg)
 
-##Ingredients
+##Ingrédients
 * Blancs de poulet (ou du tofu ferme)
 * 1/3 tasse de basilic frais - haché finement
 * 2 cuillères à soupe de moutarde de Dijon
@@ -20,7 +20,7 @@ title: Zozo's basil chicken
 * 3 gousses d'ail, hachées   
 ![image](img/zoe_chicken_or_tofu2.jpg)
 
-##Preparation
+##Préparation
 1. Mélanger tous les ingrédients sauf le poulet dans un bol  
 2. Couper le poulet en gros cubes
 2. ![image](img/zoe_chicken_or_tofu5.jpg)
