@@ -4,6 +4,8 @@ title: Baeckeoffe
 
 ---
 #Baeckeoffe
+![image](img/baeckeoffe7.jpg)  
+
 La potée alsacienne traditionelle, qu'on traduit par "four du boulanger". Le jour de la lessive, ma grand-mère et ses voisines envoyaient tôt le matin un gamin chez le boulanger avec la terrine. Après avoir fini son pain, le boulanger mettait ces terrines dans le four où elles cuisaient jusque vers midi. D'autres disent que cela était plutôt le dimanche matin pour pouvoir assister au service religieux, mais les boulangers en Alsace étaient fermés le dimanche, donc cela ne colle pas....
 
 ##Ingrédients
@@ -39,11 +41,12 @@ La potée alsacienne traditionelle, qu'on traduit par "four du boulanger". Le jo
 12. Puis recouvrir avec le vin de la marinade (compléter si besoin est)   
 ![image](img/baeckeoffe5.jpg)
 13. Mettre une feuille de laurier.
-14. Préparer un peu de pâte avec de la farine et de l'eau et sceller la terrine ("luter").   
+14. Préparer un peu de pâte avec de la farine et de l'eau et sceller le couvercle de la terrine ("luter").   
 ![image](img/baeckeoffe6.jpg)
-15. Cuire 2 heures et demi, ou plus.
+15. Cuire 2 heures et demi à 3 heures.
 
 ####Tags
-Plat-complet
+Plat complet   
+servir avec un riesling
 
 
