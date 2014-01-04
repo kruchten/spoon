@@ -18,18 +18,18 @@ or
 
 ##Preparation
 1. Cut the duck, keep side all the fat, skin etc.<br>![image](img/confit_de_canard1.jpg)
-* get the duck fat out of the skins etc. in a pan, filter it with a sieve
-* Rub duck pieces in coarse salt, put aside for 6 - 12 hours; you may add a bit of dry thyme leaves and black pepper <br>![image](img/confit_de_canard2.jpg)
-* Occasionaly remove excess water from bowl, and add more salt
-* Rinse the pieces until running water to remove all salt and thyme
-* Dry the pieces with towel or paper
-* Put pieces tightly in a pot, skin down; may add 2-3 bay leaves
-* Poach (=cook) the duck on duck fat in oven at low temp (=fat just boiling) for 3 hours min. (175°F to 220°F depending on oven)
-* Fish out the duck from the fat with tongs
-* Separate the fat from the gelatin that formed in the bottom (maybe used as the basis of a sauce) (remove bay leaves)
-* Pack the duck in a pot with lid
-* Cover with pure fat
-* Keep in fridge until needed
+2. get the duck fat out of the skins etc. in a pan, filter it with a sieve
+3. Rub duck pieces in coarse salt, put aside for 6 - 12 hours; you may add a bit of dry thyme leaves and black pepper <br>![image](img/confit_de_canard2.jpg)
+4. Occasionaly remove excess water from bowl, and add more salt
+1. Rinse the pieces until running water to remove all salt and thyme
+1. Dry the pieces with towel or paper
+1. Put pieces tightly in a pot, skin down; may add 2-3 bay leaves
+1. Poach (=cook) the duck on duck fat in oven at low temp (=fat just boiling) for 3 hours min. (175°F to 220°F depending on oven)
+1. Fish out the duck from the fat with tongs
+1. Separate the fat from the gelatin that formed in the bottom (maybe used as the basis of a sauce) (remove bay leaves)
+1. Pack the duck in a pot with lid
+1. Cover with pure fat
+1. Keep in fridge until needed
  
 ##Serving
 * Melt the fat in oven at 170-220°F (Takes half an hour at least)
