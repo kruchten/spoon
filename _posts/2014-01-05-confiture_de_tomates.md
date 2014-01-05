@@ -20,14 +20,14 @@ Pour servir:
 
 ##Préparation
 1. Peler les tomates
-* couper les tomates en cubes
-* trancher la gousse dans la longueur et gratter un peu l'intérieur
-* poivrer
-* cuire environ 40 min (consistance sirupeuse)
-* ajouter le jus de citron vers la fin
-* Retirer les gousses
-* Mettre en pot
-* Servir sur fine tranches de baguettes toastées avec parmesan en lamelles et une goutte de vinaigre balsamique
+2. couper les tomates en cubes
+3. trancher la gousse dans la longueur et gratter un peu l'intérieur
+4. poivrer
+5. cuire environ 40 min (consistance sirupeuse)
+6. ajouter le jus de citron vers la fin
+7. Retirer les gousses
+8. Mettre en pot
+9. Servir sur fines tranches de baguettes toastées avec parmesan en lamelles et une goutte de vinaigre balsamique
 
 ###Notes
 Servir sur de petits toast, recouvert d'une lamelle de parmesan and d'une goutte de vinaigre balsamique

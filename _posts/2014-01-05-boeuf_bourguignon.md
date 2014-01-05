@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Boeuf bourguignon
+title: Bœuf bourguignon
 
 ---
 #Bœuf bourguignon
@@ -23,15 +23,15 @@ pour 6 personnes:
 ##Préparation
 
 1. Couper le boeuf en morceaux
-* Ebouillanter rapidement le boeuf, et rincer.   
+2. Ebouillanter rapidement le boeuf, et rincer.   
 ![image](img/bourguignon1.jpg)
-* Dands une cocotte, faire revenir l'oignon et l'ail,
-* Ajouter la viande, faire revenir 2 à 3 minutes
-* Ajouter la farine, et continuer à remuer jusque'à ce qu'elle devienne rousse
-* Mouiller avec le vin rouge
-* Ajouter carotte, céleri. poivre sel noix ce msucase
-* compléter avec de l'eau si toute la viande n'est pas recouverte
-* Amener à ébullition
-* Réduire le feu et faire mijoter pendant 1 heure et demi à deux heures
-* Rajouter les champignons 1/2 heure avent la fin.
+3. Dands une cocotte, faire revenir l'oignon et l'ail,
+4. Ajouter la viande, faire revenir 2 à 3 minutes
+5. Ajouter la farine, et continuer à remuer jusque'à ce qu'elle devienne rousse
+6. Mouiller avec le vin rouge
+7. Ajouter carotte, céleri. poivre sel noix ce msucase
+8. compléter avec de l'eau si toute la viande n'est pas recouverte
+9. Amener à ébullition
+10. Réduire le feu et faire mijoter pendant 1 heure et demi à deux heures
+11. Rajouter les champignons 1/2 heure avent la fin.
 
