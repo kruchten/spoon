@@ -5,12 +5,12 @@ title: Cocktail Cécile
 ---
 
 #Cocktail Cécile
-
+Cointreaupolitain
 ##Ingredients
 
 (per person)
 
-* 5cL Cointro
+* 5cL Cointreau
 * 2cL lime juice
 * 3cL slightly sweet cranberry juice
 * ice
