@@ -5,6 +5,7 @@ title: Cocktail Cécile
 ---
 
 #Cocktail Cécile
+![image](img/Cointreaupolitan1.jpg)   
 Cointreaupolitain
 ##Ingredients
 
