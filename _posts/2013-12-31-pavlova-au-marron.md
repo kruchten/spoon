@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Pavlova aux marrons
+image: img/pavlova-au-marron5.jpg
 
 ---
-#Pavlova aux marrons
-![image](img/pavlova-au-marron5.jpg) 
+
 
 ##Ingrédients
 * 3 blancs d'oeuf

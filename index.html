@@ -5,16 +5,45 @@
 <head>
     <title>Kruchten Recipe Book</title>
     <meta charset="UTF-8">
-    <link href="GitHub2.css" rel="stylesheet" type="text/css" />
 </head>
+<style>
+* {font-family: Verdana;}
+td {
+    padding: 0; 
+    width: 200px; 
+    height: 200px; 
+    vertical-align: bottom; 
+    text-align: center;
+    background: grey;
+}
+td a {
+    color: white; 
+    text-shadow: 2px 2px #000; 
+    font-size: 25px; 
+    text-decoration: none;
+}
+</style>
 <body>
-<img src="img/frog.png"><img src="img/cuiller_bois.jpg">
+
+<div style="text-align: center;">
+<img src="img/frog.png"><img src="img/cuiller_bois.jpg" height="156">
 <h1>La Grenouille et la Cuiller en Bois</h1>
 <h3>or: what we ate for Christmas 2013</h3>
-<ul>
+<table cellspacing="5" cellpadding="0" style="width: 815px; margin: 0 auto;">
 {% for p in site.posts %}
-    <li><a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a></li>
+{% cycle '<tr>', '', '', '' %}
+    <td style="
+    {% if p.image %}
+    background: url('{{p.image | replace:'img','frontimgs'}}');
+    {% endif %}
+    ">
+        <a href="{{ site.url }}{{ p.url }}">{{p.title}}</a>
+    </td>
+
+{% cycle '', '', '', '</tr>' %}
+
 {% endfor %}
-</ul>
+</table>
+    </div>
 </body>
 </html>

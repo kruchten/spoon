@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Tomato jam
+image: img/confiture-de-tomates1.jpg
 
 ---
-#Tomato jam
-![image](img/confiture-de-tomates1.jpg)
+
 ##Ingredients
 * 2 lb of tomatoes
 * 1 lb of sugar

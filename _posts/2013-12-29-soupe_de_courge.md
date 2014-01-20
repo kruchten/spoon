@@ -1,10 +1,9 @@
 ---
 layout: recipe
 title: Soupe de courge 
+image: img/soupe_de_courge1.jpg
 ---
 
-#Soupe de courge
-![image](img/soupe_de_courge1.jpg)
 
 ##Ingrédients
 * 1 courge musquée (Butternut squash)

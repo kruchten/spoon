@@ -1,12 +1,12 @@
 ---
 layout: recipe
 title: Kugelhopf 
+image: img/kugelhopf8.jpg
 
 ---
-# Kugelhopf
 
 La brioche alsacienne traditionelle du dimanche matin.   
-![fini](img/kugelhopf8.jpg)
+
 ## Ustensiles
 
 - Moule à kugelhopf (voir photo)

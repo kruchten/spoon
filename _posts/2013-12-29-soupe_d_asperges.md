@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Crême d'asperges 
+image: img/soupe_d_asperges4.jpg
+
 ---
 
-# Crême d'asperges
-![image](img/soupe_d_asperges4.jpg)
 ## Ingrédients
 
 * 1 botte d'asperges

@@ -3,7 +3,6 @@ layout: recipe
 title: Galettes anglaises
 
 ---
-#Galettes anglaises
 
 Mamie Odile
 

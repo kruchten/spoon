@@ -1,11 +1,11 @@
 ---
 layout: recipe
 title: Parmentier de confit de canard 
+image: img/parmentier_confit_canard1.jpg
 ---
 
-#Parmentier de confit de canard
 See separate recipe for the confit de carnard = duck confit  
-![image](img/parmentier_confit_canard1.jpg)
+
 ##Ingredients
 * 5 legs of duck confit
 * 5 potatoes

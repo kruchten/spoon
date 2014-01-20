@@ -1,11 +1,11 @@
 ---
 layout: recipe
 title: Kale salad 
+image: img/kale-salad4.jpg
 
 ---
 
-#Kale salad
-![image](img/kale-salad4.jpg)
+
 ##Ingredients
 * 1 pack fresh goat cheese
 * 1 or 2 bunch of kale

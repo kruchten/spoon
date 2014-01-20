@@ -3,7 +3,6 @@ layout: recipe
 title: Mango chicken
 
 ---
-#Mango chicken
 
 ##Ingredients
 * 375 g of boneless, skinless chicken breast

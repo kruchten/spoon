@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Blanquette de veau 
+image: img/blanquette1.jpg
 ---
-#Blanquette de veau
-![image](img/blanquette1.jpg)   
+
 
 ##Ingrédients
 * veau coupé en gros cubes, 150 g / personne

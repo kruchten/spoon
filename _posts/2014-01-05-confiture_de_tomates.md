@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Confiture de tomates
+image: img/confiture-de-tomates1.jpg
 
 ---
-#Confiture de tomates
-![image](img/confiture-de-tomates1.jpg)
+
 ##Ingrédients
 * 2 livres de tomates
 * 1 livre de sucre en poudre

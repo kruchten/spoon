@@ -1,11 +1,8 @@
 ---
 layout: recipe
 title: Pain de Gênes 
+image: img/pain_de_genes1.jpg
 ---
-
-# Pain de Gênes
-
-![Pain de Gênes](img/pain_de_genes1.jpg)
 
 
 ## Ingrédients

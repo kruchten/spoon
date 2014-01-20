@@ -3,7 +3,6 @@ layout: recipe
 title: Risotto poireaux champignons 
 ---
 
-#Risotto poireaux champignons
 ##Ingrédients
 * 1 tasse de riz (Carnaroli, ou à défaut Arborio)
 * 2 poireaux

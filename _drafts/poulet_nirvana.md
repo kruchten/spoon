@@ -3,7 +3,6 @@ layout: recipe
 title: Poulet nirvana
 
 ---
-#Poulet nirvana
 Anne et Guillaume
 
 ##Ingrédients

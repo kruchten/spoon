@@ -3,7 +3,6 @@ layout: recipe
 title: Confit de Canard 
 ---
 
-#Confit de Canard
 It is not hard, just long.  My take is the bare-bone one, as the sophistication resides in what you do with your confit later. You can flavour your confit in a second step, when you use it, which may be 3 weeks later, so I often dispense from all the all the herbs, garlic etc. you may find in recipes.
 
 ##Ingredients

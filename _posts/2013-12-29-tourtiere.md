@@ -4,7 +4,6 @@ title: Tourtière à la canadienne
 
 ---
 
-#Tourtière à la canadienne
 
 ##Ingrédients
 

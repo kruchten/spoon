@@ -3,7 +3,6 @@ layout: recipe
 title: Soupe de poix
 
 ---
-#Soupe de poix
 
 ##Ingrédients
 * 370 de poix cassés secs

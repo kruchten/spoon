@@ -4,7 +4,6 @@ title: Pouding Chômeur à l'érable
 
 ---
 
-#Pouding Chômeur à l'érable
 
 Yields 6 portions
 

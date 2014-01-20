@@ -1,11 +1,9 @@
 ---
 layout: recipe
 title: Zozo's basil chicken
+image: img/zoe_chicken_or_tofu4.jpg
 
 ---
-
-#Zozo's basil chicken or tofu
-![image](img/zoe_chicken_or_tofu4.jpg)
 
 ##Ingrédients
 * Blancs de poulet (ou du tofu ferme)

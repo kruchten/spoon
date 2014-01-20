@@ -1,10 +1,9 @@
 ---
 layout: recipe
 title: Coquilles St. Jacques de Guy
-
+image: img/coquilles1.jpg
 ---
-#Coquilles St. Jacques de Guy
-![image](img/coquilles1.jpg)
+
 
 ##Ingrédients
 * 350 g de coquilles St. Jacques

@@ -1,12 +1,10 @@
 ---
 layout: recipe
-title: Rognons de veau
-
+title: Rognons de veau à la crême et aux champignons
+image: img/rognons-de-veau6.jpg
 ---
-#Rognons de veau à la crême et aux champignons
 
 Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en France, mais très bon marché en Amérique du nord. Profitons-en!   
-![image](img/rognons-de-veau6.jpg)
 
 ##Ingrédients
 * 1 rognon de veau ou plus (approx. 180 g / personne)

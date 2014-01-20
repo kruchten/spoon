@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Bisque de homard
-
+image: img/bisque6.jpg
 ---
-#Bisque de homard
-![image](img/bisque6.jpg)
+
+
 ##Ingrédients
 Pour 5:
 

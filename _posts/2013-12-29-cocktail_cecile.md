@@ -1,12 +1,11 @@
 ---
 layout: recipe
-title: Cocktail Cécile
+title: Cointreau-politain
+image: img/Cointreaupolitan1.jpg
 
 ---
 
-#Cocktail Cécile
-![image](img/Cointreaupolitan1.jpg)   
-Cointreaupolitain
+
 ##Ingredients
 
 (per person)

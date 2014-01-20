@@ -1,10 +1,9 @@
 ---
 layout: recipe
 title: Flammekueche 
+image: img/flammekueche1.jpg
 ---
 
-# Flammekueche
-![image](img/flammekueche1.jpg)
 
 L'équivalent alsatien de la pizza. Originellement mangé dans la campagne autour de Strasbourg, l'été, pendant le week-end.
 

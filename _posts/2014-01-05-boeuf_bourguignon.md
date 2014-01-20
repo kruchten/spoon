@@ -3,7 +3,6 @@ layout: recipe
 title: Bœuf bourguignon
 
 ---
-#Bœuf bourguignon
 
 ##Ingrédients
 pour 6 personnes:

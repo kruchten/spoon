@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Sablés miroirs
+image: img/sables-miroirs1.jpg
  
 ---
-#Sablés miroirs
-![image](img/sables-miroirs1.jpg)
+
 ##Ingredients
 * 250 g farine
 * 180 g beurre mou
