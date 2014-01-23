@@ -2,6 +2,7 @@
 layout: recipe
 title: Coquilles St. Jacques de Guy
 image: img/coquilles1.jpg
+
 ---
 
 
@@ -13,7 +14,7 @@ image: img/coquilles1.jpg
 * persil (opt.)
 
 ##Préparation
-* Couper les courgettes en lamelles
+1. Couper les courgettes en lamelles
 * Faire cuire au micro-ondes 1 minute
 * Faire revenir dans un peu de beurre dans une poëlle
 * Couper les coquilles St. Jacques en lames de 1 cm d'épaiseur
