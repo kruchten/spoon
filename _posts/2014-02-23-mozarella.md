@@ -6,7 +6,7 @@ image: img/mozarella1.jpg
 ---
 ##Ingredients
 * 4 litres of milk (2%)
-* 1/2 pack thermophilic culture* 
+* 1/2 pack thermophilic culture† 
 * 1/2 tsp rennet
 * 1/8 tsp lipase (mild)
 * 150 g salt (for the brine)
@@ -27,7 +27,7 @@ image: img/mozarella1.jpg
 ![image](img/mozarella3.jpg)  
 10. Heat (very low) the curds to 38°C (100°F), while slowly stirring constantly
 11. Let rest, covered, for 5 minutes
-12. Drain the whey from the curds†  
+12. Drain the whey from the curds††  
 ![image](img/mozarella4.jpg)
 13. Keep the pot with the curds in a hot bath in the sink at about 40°C (104°F)
 14. For 2 1/2 hour, drain off once in a while the whey and flip the curds over
@@ -42,5 +42,5 @@ image: img/mozarella1.jpg
 18. Now it is ready to use.
 
 ###Notes:
-*Thermophilic culture = Streptococcus thermophilus, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (similar to what is used to make yogurt)   
-†The whey is good; you can drink some, use it in soup, etc... or make ricotta (a spoonful)
+†Thermophilic culture = Streptococcus thermophilus, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (similar to what is used to make yogurt)   
+††The whey is good; you can drink some, use it in soup, etc... or make ricotta (a spoonful)
