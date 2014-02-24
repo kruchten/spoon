@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Mozzarella
-image: img/mozarella1.jpg
+image: img/mozzarella1.jpg
 
 ---
 ##Ingredients
@@ -19,25 +19,25 @@ image: img/mozarella1.jpg
 4. Let rest for 30+ minutes
 5. Dissolve the rennet in a bit of water
 6. Add rennet to milk, stir well, cover  
-![image](img/mozarella2.jpg)  
+![image](img/mozzarella2.jpg)  
 7. Let the curd form, for 1 hour to 1 1/2 hour. It should look like one massive blob of smooth tofu. Should give a "clean break":  
 ![image](img/clean_break_collage.jpg)  
 8. Cut the curds in 1 cm blobs with a big knife
 9. Let rest for 15 minutes  
-![image](img/mozarella3.jpg)  
+![image](img/mozzarella3.jpg)  
 10. Heat (very low) the curds to 38°C (100°F), while slowly stirring constantly
 11. Let rest, covered, for 5 minutes
 12. Drain the whey from the curds††  
-![image](img/mozarella4.jpg)
+![image](img/mozzarella4.jpg)
 13. Keep the pot with the curds in a hot bath in the sink at about 40°C (104°F)
 14. For 2 1/2 hour, drain off once in a while the whey and flip the curds over
 15. Put the curds in 75°C (190°F) water, with a strainer. Take half of them out.
 15. Separate the curds in small chunks (2 cm), and then knead them with your hands (gloved?); this take 5 to 15 minutes  
-![image](img/mozarella5.jpg)
-16. Shape them into smooth balls   
-![image](img/mozarella1.jpg)
-16. In a litter of cold water, dissolve 150 g of salt, and place the ball in this brine  
-![image](img/mozarella6.jpg)
+![image](img/mozzarella5.jpg)
+16. Shape them into smooth balls:   
+![image](img/mozzarella1.jpg)
+16. In a liter of cold water, dissolve 150 g of salt, and place the ball in this brine:  
+![image](img/mozzarella6.jpg)
 17. Wait at least an hour
 18. Now it is ready to use.
 
