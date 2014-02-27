@@ -19,6 +19,8 @@ image: img/soupe_de_courge1.jpg
 2. Dans une casserole, faire revenir ail et oignon dans de l'huile d'olive
 3. Peler et couper en segment les carottes
 4. ajouter à la casserole
+5. Mettre les courges coupées en 4 sous le grill (500F) for 10 minutes   
+![image](img/soupe_de_courge2.jpg)   
 5. Peler et couper en cubes la courge
 6. ajouter à la casserole
 7. Ajouter 1 c à s de curry, et remuer

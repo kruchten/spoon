@@ -33,7 +33,8 @@ Alternative (c-a-d sans préfermentation): 1000 g farine + 650 g eau + 10 g levu
 
 3. Pétrissage:
 4 min pétrissage vitesse 2 (ou 12 min à la main)  
-température cible=25°C
+température cible=25°C   
+![image](img/baguettes11.jpg)  
 
 4. Pointage  (2ème fermentation)
 2 heures à 25°C, couvert
@@ -41,8 +42,9 @@ Rabattre 1 ou 2 fois (aprés 20 minutes, et 60 minutes)
 ![image](img/baguettes7.jpg)
 
 5. Boulage:
-Dégazer. Diviser en pâtons, faire des boules allongées  
-![image](img/baguettes3.jpg)
+Dégazer. Diviser en pâtons, faire des boules allongées   
+![image](img/baguettes9.jpg)
+![image](img/baguettes10.jpg)
 
 6. Détente:
 20 min couvert  
