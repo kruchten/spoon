@@ -17,9 +17,10 @@ Hydration: 64% (par exemple: 1,000g farine pour 640 g eau)
 
 1. Pré-ferment (aussi appelé "poolish"):
 300 g eau tiède (25°C)
+6 g levure sèche (diluer la levure dans l'eau tiède)
 300 g farine blanche bio
-6 g levure sèche,
-couvrir, laisser reposer 6 à 12h, temp. 23-25C  
+couvrir, laisser reposer 6 à 12h, temp. 23-25°C
+(si la cuisine est froide, mettre au four avec la lampe allumée)     
 ![image](img/baguettes4.jpg)
 
 2. Frasage:
@@ -32,7 +33,7 @@ Alternative (c-a-d sans préfermentation): 1000 g farine + 650 g eau + 10 g levu
 3 min frasage vitesse 1
 
 3. Pétrissage:
-4 min pétrissage vitesse 2 (ou 12 min à la main)  
+4 min pétrissage vitesse 2 (ou 12 min à la main; la musique aide...)  
 température cible=25°C   
 ![image](img/baguettes11.jpg)  
 
@@ -42,7 +43,8 @@ Rabattre 1 ou 2 fois (aprés 20 minutes, et 60 minutes)
 ![image](img/baguettes7.jpg)
 
 5. Boulage:
-Dégazer. Diviser en pâtons, faire des boules allongées   
+Dégazer = presser sur les grosses bulles pour les éliminer. 
+Diviser en 6 pâtons de 280 g, faire des boules allongées   
 ![image](img/baguettes9.jpg)
 ![image](img/baguettes10.jpg)
 
@@ -53,7 +55,7 @@ Dégazer. Diviser en pâtons, faire des boules allongées
 Faire des baguettes (voir  [youtube videos](http://www.youtube.com/watch?v=fdNRogR10nM))
 
 8. Apprêt (= 3ième fermentation):
-40 minutes à 1h30 couvert, t=18°C min
+40 minutes à 1h30 couvert, t=18°C min (20°C à 22°C pour raccourcir)
 Mettre le four à chauffer 550°F = 260°C;  
 ![image](img/baguettes2.jpg)
 
