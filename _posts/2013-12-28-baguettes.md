@@ -15,30 +15,31 @@ Hydration: 64% (par exemple: 1,000g farine pour 640 g eau)
 
 ## Préparation
 
-1. Pré-ferment (aussi appelé "poolish"):
-300 g eau tiède (25°C)
-6 g levure sèche (diluer la levure dans l'eau tiède)
-300 g farine blanche bio
-couvrir, laisser reposer 6 à 12h, temp. 23-25°C
-(si la cuisine est froide, mettre au four avec la lampe allumée)     
+1. Pré-ferment (aussi appelé "poolish"):   
+300 g eau tiède (25°C)  
+6 g levure sèche (diluer la levure dans l'eau tiède)   
+300 g farine blanche bio   
+couvrir, laisser reposer 6 à 12h, temp. 23-25°C       
 ![image](img/baguettes4.jpg)
 
 2. Frasage:
 Poolish +
-340 g eau,
-700 g farine,
-20 g sel,
-5 g levure sèche   
-Alternative (c-a-d sans préfermentation): 1000 g farine + 650 g eau + 10 g levure
-3 min frasage vitesse 1
+340 g eau,  
+700 g farine,  
+20 g sel,  
+5 g levure sèche (diluée dans un peu d'eau: 50g des 340g) 
+3 min frasage vitesse 1   
+Alternative (c-a-d sans préfermentation):  
+1000 g farine + 650 g eau + 10 g levure  
 
-3. Pétrissage:
+3. Pétrissage:   
 4 min pétrissage vitesse 2 (ou 12 min à la main; la musique aide...)  
-température cible=25°C   
+température cible: 25°C   
 ![image](img/baguettes11.jpg)  
 
 4. Pointage  (2ème fermentation)
-2 heures à 25°C, couvert
+2 heures à 25°C, couvert  
+(si la cuisine est froide, mettre au four avec la lampe allumée)   
 Rabattre 1 ou 2 fois (aprés 20 minutes, et 60 minutes)  
 ![image](img/baguettes7.jpg)
 
