@@ -27,7 +27,7 @@ Laisser reposer 6 à 12h, temp. 20-23°C
 2. Frasage:
 Poolish +
 340 g eau,  
-5 g levure sèche (diluée dans un l'eau tiède) 
+5 g levure sèche (diluée dans l'eau tiède) 
 700 g farine,  
 20 g sel,  
 3 min frasage vitesse 1   
@@ -39,15 +39,15 @@ température cible: 25°C
 ![image](img/baguettes11.jpg)  
 
 4. Pointage  (=2ème fermentation)  
-2 heures à 25°C, couvert dun fil plastique 
-(si la cuisine est froide, mettre ddans le four avec la lampe allumée)   
+2 heures à 25°C, couvert d'un fil plastique 
+(si la cuisine est froide, mettre dans le four avec la lampe allumée)   
 Rabattre 1 ou 2 fois (après 20 minutes, et après 60 minutes)  
 ![image](img/baguettes7.jpg)
 
 5. Boulage:
 Dégazer = presser sur les grosses bulles pour les éliminer. 
 Diviser en 6 pâtons de 280 g, faire des boules allongées   
-![image](img/baguettes9.jpg)
+![image](img/baguettes9.jpg)   
 ![image](img/baguettes10.jpg)
 
 6. Détente:
