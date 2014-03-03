@@ -28,9 +28,11 @@ Then:
 ##Instructions
 The night before:  
 1. Prepare a leaven with 100 to 150 g of your best culture, mixed with 200 g of white flour and 200 g of water. Cover and let rest in warm area (20°C)  
-2. Soak 600g of whole wheat flour and 150 g of whole rye flour with 700 g of water. This process, called *autolysis*, will break down the hardest cells and develop the flavours. Lt both rest overnight (12 h).  
+![image](img/sourdough-country6.jpg)   
+2. Soak 600g of whole wheat flour and 150 g of whole rye flour with 700 g of water. This process, called *autolysis*, will break down the hardest cells and develop the flavours. Let both rest overnight (approx. 12 hours).  
 Then the next day:  
-3. Test the leaven: it must float on water:    
+3. Test the leaven: it must float on water:  
+4. ![image](img/sourdough-country5.jpg)  
 3. Dissolve a tsp (5 g) of yeast in 50 g of lukewarm water.   
 4. Assemble: 200 g of leaven (levain), the 1,450 g of soaked flour, 250 g of white flour, and the yeast.  
 5. Mix thouroughly; let rest of 30 minutes.   
@@ -45,5 +47,5 @@ Then the next day:
 ![image](img/sourdough-country2.jpg)   
 14. Drop the loaves on parchment paper. Score with a razor blade.    
 15. Bake them for 45 minutes at 500°F with steam for 10 minutes    
-![image](img/sourdough-country4.jpg) 
+![image](img/sourdough-country4.jpg)    
 ![image](img/sourdough-country3.jpg)  
