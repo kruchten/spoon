@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Bœuf bourguignon
+image: img/bourguignon0.jpg
 
 ---
 
