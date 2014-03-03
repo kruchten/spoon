@@ -14,7 +14,7 @@ pour 6 personnes:
 * 1 gousse d'ail
 * 1 carotte (opt.)
 * un morceau de céleri (opt.)
-* 1 bouteille de bourgogne (ou n'importe quel autre vin rouge fait avec du pinot rouge)
+* 1 bouteille de bourgogne (ou n'importe quel autre pinot noir)
 * 2 cuillerées de farine
 * thym, feuille de laurier
 * noix de muscade (nutmeg) une pincée
@@ -26,11 +26,11 @@ pour 6 personnes:
 1. Couper le bœuf en morceaux
 2. Ebouillanter rapidement le bœuf, et rincer.   
 ![image](img/bourguignon1.jpg)
-3. Dands une cocotte, faire revenir l'oignon et l'ail,
+3. Dans une cocotte, faire revenir l'oignon et l'ail,
 4. Ajouter la viande, faire revenir 2 à 3 minutes
 5. Ajouter la farine, et continuer à remuer jusque'à ce qu'elle devienne rousse
 6. Mouiller avec le vin rouge
-7. Ajouter carotte, céleri. poivre, sel, noix de muscade    
+7. Ajouter carotte, céleri, poivre, sel, noix de muscade    
 ![image](img/bourguignon4.jpg)   
 8. Compléter avec de l'eau si toute la viande n'est pas recouverte   
 9. Amener à ébullition

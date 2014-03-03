@@ -11,6 +11,7 @@ image: img/mozzarella1.jpg
 * 1/8 tsp lipase (mild)
 * 150 g salt (for the brine)
 * thermometer (0-100°C)
+* kitchen gloves for the kneading
 
 ##Preparation
 1. Heat milk to 32°C (90°F) on medium heat
@@ -32,15 +33,17 @@ image: img/mozzarella1.jpg
 13. Keep the pot with the curds in a hot bath in the sink at about 40°C (104°F)
 14. For 2 1/2 hour, drain off once in a while the whey and flip the curds over
 15. Put the curds in 75°C (190°F) water, with a strainer. Take half of them out.
-15. Separate the curds in small chunks (2 cm), and then knead them with your hands (gloved?); this take 5 to 15 minutes  
+15. Separate the curds in small chunks (2 cm), and then knead them with your hands (gloved, it's hot); this take 5 to 15 minutes.  
 ![image](img/mozzarella5.jpg)
 16. Shape them into smooth balls:   
 ![image](img/mozzarella1.jpg)
 16. In a liter of cold water, dissolve 150 g of salt, and place the ball in this brine:  
 ![image](img/mozzarella6.jpg)
-17. Wait at least an hour
+17. Wait at least an hour in the brine.
 18. Now it is ready to use.
 
 ###Notes:
 †Thermophilic culture = Streptococcus thermophilus, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (similar to what is used to make yogurt)   
-††The whey is good; you can drink some, use it in soup, etc... or make ricotta (a spoonful)
+††The whey is good; you can drink some, use it in soup, etc... or make ricotta (a spoonful)   
+The yield is approx. 480 g of cheese for 4 litres of milk; that's 3.5 litres of whey!
+Whole goat milk works fine too. It produces a drier cheese. The ricotta however is richer and more abundant. 
