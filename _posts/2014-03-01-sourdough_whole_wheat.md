@@ -42,6 +42,6 @@ Then:
 12. Put each loaf in a bowl lined with a linen towel generously floured.   
 13. Let them proof in a warm spot for 2 to 3 hours at 25°C (oven with light again).   
 ![image](img/sourdough-country2.jpg)   
-14. Drop the loaves on parchment paper. Score with a razor blades.    
+14. Drop the loaves on parchment paper. Score with a razor blade.    
 15. Bake them for 45 minutes at 500°F with steam for 10 minutes    
 ![image](img/sourdough-country1.jpg)  
