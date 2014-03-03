@@ -10,8 +10,8 @@ Hydration: 64% (par exemple: 1,000g farine pour 640 g eau)
 ## Ingrédients
 * 1 kg de farine
 * 640 g d'eau  (64%)
-* 20 g sel (2%)
-* 12 g de levure sèche (= 2 c.à.t)   
+* 20 g sel (2%) (3.5 c.à.t.)
+* 12 g de levure sèche (= 2 c.à.t.)   
 
 ## Préparation
 
@@ -40,8 +40,8 @@ température cible: 25°C
 
 4. Pointage  (=2ème fermentation)  
 2 heures à 25°C, couvert dun fil plastique 
-(si la cuisine est froide, mettre au four avec la lampe allumée)   
-Rabattre 1 ou 2 fois (aprés 20 minutes, et 60 minutes)  
+(si la cuisine est froide, mettre ddans le four avec la lampe allumée)   
+Rabattre 1 ou 2 fois (après 20 minutes, et après 60 minutes)  
 ![image](img/baguettes7.jpg)
 
 5. Boulage:
@@ -64,6 +64,7 @@ Mettre le four à chauffer 550°F = 260°C
 
 9. Grigne:
 avec un couteau très affuté, ou mieux: une lame de rasoir, faire des entailles en biais d'1 cm de profondeur  
+![image](img/baguettes12.jpg)   
 ![image](img/baguettes6.jpg)
 
 10. Cuisson:   

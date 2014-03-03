@@ -17,7 +17,8 @@ pour 6 personnes:
 * 2 cuillerées de farine
 * thym, feuille de laurier
 * noix de muscade (nutmeg)
-* Optionel: petits champignons ronds (dits "de Paris")
+* Optionel: petits champignons ronds (dits "de Paris")   
+![image](img/bourguignon3.jpg)
 
 ##Préparation
 
@@ -28,9 +29,12 @@ pour 6 personnes:
 4. Ajouter la viande, faire revenir 2 à 3 minutes
 5. Ajouter la farine, et continuer à remuer jusque'à ce qu'elle devienne rousse
 6. Mouiller avec le vin rouge
-7. Ajouter carotte, céleri. poivre sel noix ce msucase
-8. compléter avec de l'eau si toute la viande n'est pas recouverte
+7. Ajouter carotte, céleri. poivre, sel, noix ce muscade    
+![image](img/bourguignon4.jpg)   
+8. compléter avec de l'eau si toute la viande n'est pas recouverte   
 9. Amener à ébullition
-10. Réduire le feu et faire mijoter pendant 1 heure et demi à deux heures
+10. Réduire le feu et faire mijoter pendant 1 heure et demi à deux heures  
+11. Faire frire les lardons coupés fins, et rajouter (so=i on met des lardons, mettre moins de sel, ou même pas du tout)      
+![image](img/bourguignon5.jpg) 
 11. Rajouter les champignons 1/2 heure avent la fin.
 
