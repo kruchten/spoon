@@ -1,6 +1,8 @@
 ---
 layout: recipe
 title: Risotto poireaux champignons 
+img: img/risotto_champignons_poireaux.jpg
+
 ---
 
 ##Ingrédients
