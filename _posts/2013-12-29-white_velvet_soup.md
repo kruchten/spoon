@@ -2,6 +2,10 @@
 layout: recipe
 title: White velvet soup 
 image: img/white_velvet_soup1.jpg
+tags:
+    - Soup
+    - Vegetarian
+    
 ---
 
 

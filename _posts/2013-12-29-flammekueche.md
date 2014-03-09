@@ -2,6 +2,11 @@
 layout: recipe
 title: Flammekueche 
 image: img/flammekueche1.jpg
+tags:
+    - Alsace
+    - Main Course
+    - Meat
+
 ---
 
 

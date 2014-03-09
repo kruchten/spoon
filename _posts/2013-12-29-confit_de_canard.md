@@ -2,6 +2,10 @@
 layout: recipe
 title: Confit de Canard 
 image: img/confit_de_canard0.jpg
+tags:
+    - Main Course
+    - Meat
+
 
 ---
 

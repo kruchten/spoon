@@ -2,6 +2,11 @@
 layout: recipe
 title: Parmentier de confit de canard 
 image: img/parmentier_confit_canard1.jpg
+
+tags:
+    - Main Course
+    - Meat
+
 ---
 
 See separate recipe for the confit de carnard = duck confit  

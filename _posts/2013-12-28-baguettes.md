@@ -3,7 +3,7 @@ layout: recipe
 title: Baguettes
 image: img/baguettes1.jpg
 tags:
-    - bread
+    - Bread
     
 ---
 

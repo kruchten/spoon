@@ -2,6 +2,11 @@
 layout: recipe
 title: Kugelhopf 
 image: img/kugelhopf8.jpg
+tags:
+    - Alsace
+    - Bread
+    - Breakfast
+
 
 ---
 

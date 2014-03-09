@@ -3,6 +3,10 @@ layout: recipe
 title: Sablés miroirs
 image: img/sables-miroirs1.jpg
  
+tags:
+    - Alsace
+    - Dessert
+    
 ---
 
 ##Ingredients

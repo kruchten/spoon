@@ -3,6 +3,10 @@ layout: recipe
 title: Coquilles St. Jacques de Guy
 image: img/coquilles1.jpg
 
+tags:
+    - Main Course
+    - Seafood
+    
 ---
 
 

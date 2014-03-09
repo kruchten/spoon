@@ -2,6 +2,9 @@
 layout: recipe
 title: Crême d'asperges 
 image: img/soupe_d_asperges4.jpg
+tags:
+    - Soup
+    - Vegetarian
 
 ---
 

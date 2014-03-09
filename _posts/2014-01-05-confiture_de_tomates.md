@@ -3,6 +3,10 @@ layout: recipe
 title: Confiture de tomates
 image: img/confiture-de-tomates1.jpg
 
+tags:
+    - Appetizer
+    - Vegetarian
+    
 ---
 
 ##Ingrédients

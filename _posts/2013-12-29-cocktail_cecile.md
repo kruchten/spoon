@@ -2,6 +2,9 @@
 layout: recipe
 title: Cointreau-politain
 image: img/Cointreaupolitan1.jpg
+tags:
+    - Cocktail
+
 
 ---
 

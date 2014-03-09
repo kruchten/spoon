@@ -3,6 +3,10 @@ layout: recipe
 title: Risotto poireaux champignons 
 image: img/risotto_champignons_poireaux.jpg
 
+tags:
+    - Main Course
+    - Vegetarian
+
 ---
 
 ##Ingrédients

@@ -2,6 +2,10 @@
 layout: recipe
 title: Zozo's basil chicken
 image: img/zoe_chicken_or_tofu4.jpg
+tags:
+    - Main Course
+    - Meat
+    - Vegetarian
 
 ---
 

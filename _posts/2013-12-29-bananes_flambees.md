@@ -2,6 +2,9 @@
 layout: recipe
 title: Bananes Flambées 
 image: img/bananes_flambees1.jpg
+tags:
+    - Dessert
+
 ---
 
 ##Ingrédients

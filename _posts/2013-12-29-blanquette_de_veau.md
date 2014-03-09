@@ -2,6 +2,10 @@
 layout: recipe
 title: Blanquette de veau 
 image: img/blanquette1.jpg
+tags:
+    - Main Course
+    - Meat
+
 ---
 
 

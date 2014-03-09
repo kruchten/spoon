@@ -2,6 +2,9 @@
 layout: recipe
 title: Kale salad 
 image: img/kale.JPG
+tags:
+    - Salad
+    - Vegetarian
 
 ---
 

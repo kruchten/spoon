@@ -3,6 +3,9 @@ layout: recipe
 title: Pavlova aux marrons
 image: img/pavlova-au-marron5.jpg
 
+tags:
+    - Dessert
+    
 ---
 
 

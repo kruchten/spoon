@@ -2,6 +2,11 @@
 layout: recipe
 title: Bisque de homard
 image: img/bisque6.jpg
+
+tags:
+    - Soup
+    - Seafood
+    
 ---
 
 

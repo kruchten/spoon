@@ -3,7 +3,7 @@ layout: recipe
 title: Whole Wheat Country Bread
 image: img/sourdough-country1.jpg
 tags:
-    - bread
+    - Bread
 
 ---
 This recipe was inspired by the *Tartine Bread* (Chad Roberston, in SFO), as described in Michael Pollan's book *Cooked* (2013), appendix 3: "Whole wheat country loaf". The main differences are:  

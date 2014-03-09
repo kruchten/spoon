@@ -3,6 +3,9 @@ layout: recipe
 title: Mozzarella
 image: img/mozzarella1.jpg
 
+tags:
+    - Cheese
+    
 ---
 ##Ingredients
 * 4 litres of milk (min. 2%)†

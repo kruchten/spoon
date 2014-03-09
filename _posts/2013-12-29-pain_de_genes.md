@@ -2,6 +2,10 @@
 layout: recipe
 title: Pain de Gênes 
 image: img/pain_de_genes1.jpg
+
+tags:
+    - Dessert
+
 ---
 
 
