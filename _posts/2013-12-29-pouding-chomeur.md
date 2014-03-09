@@ -4,7 +4,7 @@ title: Pouding Chômeur à l'érable
 
 tags:
     - Dessert
-    - Quebec
+    - Québec
 
 ---
 

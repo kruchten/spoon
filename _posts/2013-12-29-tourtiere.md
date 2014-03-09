@@ -3,7 +3,7 @@ layout: recipe
 title: Tourtière à la canadienne 
 image: img/tourtiere0.JPG
 tags:
-    - Quebec
+    - Québec
     - Main Course
     - Meat
 
