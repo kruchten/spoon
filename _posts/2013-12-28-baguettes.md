@@ -19,7 +19,7 @@ Hydration: 64% (par exemple: 1,000g farine pour 640 g eau)
 300 g eau tiède (25°C)  
 6 g levure sèche (diluer la levure dans l'eau tiède)   
 300 g farine blanche bio   
-Bien mélanger vec une cuiller en bois   
+Bien mélanger avec une cuiller en bois   
 Couvrir d'un film plastique   
 Laisser reposer 6 à 12h, temp. 20-23°C       
 ![image](img/baguettes4.jpg)
@@ -31,7 +31,7 @@ Poolish +
 700 g farine,  
 20 g sel,  
 3 min frasage vitesse 1   
-*Alternative* (c-a-d sans préfermentation):  1000 g farine + 650 g eau + 10 g levure  
+*Alternative* (c-a-d sans préfermentation):  1000 g farine + 650 g eau + 10 g levure + 20 g sel 
 
 3. Pétrissage:   
 4 min pétrissage vitesse 2 (ou 12 min à la main; la musique aide...)  
