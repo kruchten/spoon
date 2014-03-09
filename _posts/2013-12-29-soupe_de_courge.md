@@ -2,6 +2,10 @@
 layout: recipe
 title: Soupe de courge 
 image: img/soupe_de_courge1.jpg
+tags:
+    - Soup
+    - Vegetarian
+
 ---
 
 
