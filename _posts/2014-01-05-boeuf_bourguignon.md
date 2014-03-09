@@ -14,7 +14,7 @@ pour 6 personnes:
 * 1 gousse d'ail
 * 1 carotte (opt.)
 * un morceau de céleri (opt.)
-* 1 bouteille de bourgogne (ou n'importe quel autre pinot noir)
+* 1 bouteille de bourgogne (ou n'importe quel autre *pinot noir*)
 * 2 cuillerées de farine
 * thym, feuille de laurier
 * noix de muscade (nutmeg) une pincée
@@ -24,7 +24,7 @@ pour 6 personnes:
 ##Préparation
 
 1. Couper le bœuf en morceaux
-2. Ebouillanter rapidement le bœuf, et rincer.   
+2. Ebouillanter rapidement le bœuf, et le rincer.   
 ![image](img/bourguignon1.jpg)
 3. Dans une cocotte, faire revenir l'oignon et l'ail,
 4. Ajouter la viande, faire revenir 2 à 3 minutes
