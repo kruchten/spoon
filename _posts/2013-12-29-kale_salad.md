@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Kale salad 
-image: img/kale-salad4.jpg
+image: img/kale.JPG
 
 ---
 

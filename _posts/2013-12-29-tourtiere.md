@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Tourtière à la canadienne
+title: Tourtière à la canadienne 
+image: img/tourtiere0.JPG
 
 ---
 
@@ -25,10 +26,14 @@ title: Tourtière à la canadienne
 ##Préparation
 
 1. Mélanger la viande aux épices.
+![image](img/tourtiere1.JPG)
 1. Faire sauter les onions
-1. Mettre la viande dans une marmite, ajouter l'eau et bien mêler. 
+![image](img/tourtiere2.JPG)
+1. Mettre la viande dans une marmite, ajouter l'eau et bien mêler.
 1. Cuire à feu très doux, surveiller la cuisson au début jusqu'à ce que le jus de la viande ressorte. 
+![image](img/tourtiere3.JPG) 
 1. Déposer dans l'abaisse, recouvrir de pâte et cuire au four à 400°C
+![image](img/tourtiere4.JPG)
 
 ###Pâte
 1. Travailler tous les ingrédients secs et le beurre
