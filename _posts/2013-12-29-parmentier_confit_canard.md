@@ -37,10 +37,10 @@ See separate recipe for the confit de carnard = duck confit
    * Some do 2, meat at bottom.
    * you can try the 5 layers approach, if the dish is deep
    * Topping: 
-   		* grated emmenthal (does not go well with confit, I think)
-     	* or hazelnut crumble (crushed hazelnut, flour and butter)
-     	* or breadcrumbs and butter
-     	* but I favour the shallot fondue (chopped shallots, cooked slowly very long, until a little brown, use white wine to avoid burning; a dash of cognac...)
+      * grated emmenthal (does not go well with confit, I think)
+      * or hazelnut crumble (crushed hazelnut, flour and butter)
+      * or breadcrumbs and butter
+      * but I favour the shallot fondue (chopped shallots, cooked slowly very long, until a little brown, use white wine to avoid burning; a dash of cognac...)
    * pass in the oven under the grill for browning the topping.
 
 ###Notes

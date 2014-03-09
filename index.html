@@ -1,38 +1,45 @@
 ---
 ---
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
 <head>
+    {% include head.html %}
+
     <title>Kruchten Recipe Book</title>
-    <meta charset="UTF-8">
+    <style>
+    * {font-family: Verdana;}
+    td {
+        padding: 0; 
+        cursor: pointer;
+        width: 200px; 
+        height: 200px; 
+        vertical-align: bottom; 
+        text-align: center;
+        background: grey;
+    }
+    td a, td a:hover {
+        color: white; 
+        font-weight: bold;
+        font-family: 'Museo Slab';
+        text-shadow: black 0 0 0.3em; 
+        font-size: 25px; 
+        text-decoration: none;
+    }
+    </style>
 </head>
-<style>
-* {font-family: Verdana;}
-td {
-    padding: 0; 
-    width: 200px; 
-    height: 200px; 
-    vertical-align: bottom; 
-    text-align: center;
-    background: grey;
-}
-td a {
-    color: white; 
-    text-shadow: 2px 2px #000; 
-    font-size: 25px; 
-    text-decoration: none;
-}
-</style>
 <body>
  
 <div style="text-align: center;">
-    <img src="img/frog.png"><img src="img/cuiller_bois.jpg" height="156">
-    <h1>La Grenouille et la Cuiller en Bois</h1>
-    <h3>or: what the Kruchtens eat</h3>
-    <table cellspacing="5" cellpadding="0" style="width: 815px; margin: 0 auto;">
+    <img src="img/frog.png"><img src="img/cuiller_bois.jpg" height="156" width="208">
+    <h1>La Grenouille et la Cuiller en Bois
+        <br/><small>or: what the Kruchtens eat</small>
+    </h1>
+    <table style="width: 815px; margin: 0 auto; border-spacing: 5px; border-collapse: separate">
     {% for p in site.posts %}
     {% cycle '<tr>', '', '', '' %}
-        <td style="
+        <td onclick="document.location='{{ site.url }}{{ p.url }}'"
+        style="
         {% if p.image %}
         background: url('{{p.image | replace:'img','frontimgs'}}');
         {% endif %}

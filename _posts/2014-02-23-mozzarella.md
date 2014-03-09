@@ -42,8 +42,10 @@ image: img/mozzarella1.jpg
 17. Wait at least an hour in the brine.
 18. Now it is ready to use.
 
-###Notes:
+##Notes
+
 †Thermophilic culture = Streptococcus thermophilus, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (similar to what is used to make yogurt)   
+
 ††The whey is good; you can drink some, use it in soup, etc... or make ricotta (a spoonful)   
 The yield is approx. 480 g of cheese for 4 litres of milk; that's 3.5 litres of whey!
 Whole goat milk works fine too. It produces a drier cheese. The ricotta however is richer and more abundant. 
