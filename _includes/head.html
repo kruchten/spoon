@@ -6,6 +6,17 @@
   <script src="{{ site.url }}/js/bootstrap.min.js"></script>  
     <style>  
     @font-face {
+    font-family: 'Museo Slab 700';
+    src: url('{{ site.url }}/fonts/Museo_Slab_700-webfont.eot');
+    src: url('{{ site.url }}/fonts/Museo_Slab_700-webfont.eot?#iefix') format('embedded-opentype'),
+         url('{{ site.url }}/fonts/Museo_Slab_700-webfont.woff') format('woff'),
+         url('{{ site.url }}/fonts/Museo_Slab_700-webfont.ttf') format('truetype'),
+         url('{{ site.url }}/fonts/Museo_Slab_700-webfont.svg#MuseoSlab700Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+    @font-face {
       font-family: 'Museo Sans';
       src: url('{{ site.url }}/fonts/MuseoSans_500-webfont.eot');
       src: url('{{ site.url }}/fonts/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'),
@@ -29,5 +40,19 @@
 
 
     body { font-family: 'Museo Sans'; -webkit-font-smoothing: antialiased;}
-    h1, h2, h3, h4, h5, h6 {font-family: 'Museo Slab'; font-weight: normal;}
+    h1, h2, h3, h4, h5, h6 {font-family: 'Museo Slab 700'; font-weight: normal;}
+
+    .nav {font-size: 18px;}
+
+     .row p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+     }
+
+     .row li {
+      margin: 0 10px;
+      font-size: 18px;
+      line-height: 1.6;
+    }
     </style>

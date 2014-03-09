@@ -2,7 +2,9 @@
 layout: recipe
 title: Baguettes
 image: img/baguettes1.jpg
- 
+tags:
+    - bread
+    
 ---
 
 Hydration: 64% (par exemple: 1,000g farine pour 640 g eau)
