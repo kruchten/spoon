@@ -17,6 +17,7 @@ tags:
 * 1 c à s de poudre de curry
 * Bouillon
 * Citron
+* Crème (optionel)
 
 ##Préparation
 1. Hacher menu ail et oignon
@@ -31,7 +32,7 @@ tags:
 8. recouvrir de bouillon (ou d'eau + sel)
 9. Cuire jusqu'à ce que les carottes soient tendre
 10. Passer au mixeur
-11. Décorer les bol d'une cuiller de crême
+11. Décorer les bol d'une cuiller de crème
 
 ####Tags
 vegan, soupe

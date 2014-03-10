@@ -19,7 +19,7 @@ tags:
 * 1 pomme de terre (opt.)
 * 1 citron (opt.)
 * Cognac (opt.)
-* Crême  
+* Crème  
 
 ![image](img/soupe_d_asperges5.jpg)
 
@@ -40,7 +40,7 @@ tags:
 10. Ebouillanter les têtes d'asperges 3 à 5 minutes   
 ![image](img/soupe_d_asperges1.jpg)
 11. Servir avec les têtes d'asperges
-12. Pour décorer, ajouter de la crême et éventuellement du zeste de citron râpé.
+12. Pour décorer, ajouter de la crème et éventuellement du zeste de citron râpé.
 
 ###Notes
 Peut être servi glacé en été.

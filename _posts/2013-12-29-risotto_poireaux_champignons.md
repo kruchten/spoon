@@ -42,6 +42,6 @@ tags:
 13. ... jusqu'à obtenir la cuisson "al dente" requise (environ 20 minutes)
 13. Ajouter du beurre
 14. Puis finalement un peu de parmesan râpé
-15. Finir avec un peu de bouillon pour arriver à une consistance crêmeuse
+15. Finir avec un peu de bouillon pour arriver à une consistance crémeuse
 
 

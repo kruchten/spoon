@@ -20,7 +20,7 @@ Pour 5:
 * 1 morceau de céleri
 * 1 gousse d'ail
 * lait
-* crême
+* crème
 * concentré de tomates (pour la couleur)
 * citron
 * piment de cayenne
@@ -47,7 +47,7 @@ Pour 5:
 10. Eliminer les morceaux de carcasse l'oignon le thym et le céleri
 11. Faire un roux avec la farine et le lait, et l'étendre avec le bouillon
 12. Rajouter le concentré de tomates
-13. Finir avec de la crême, et les morceaux de homard
+13. Finir avec de la crème, et les morceaux de homard
 14. On peut aussi broyer au mixer les caracasses cuites, passer le jus résultant dans une passoire fine, et le rajouter à la soupe.
 
 

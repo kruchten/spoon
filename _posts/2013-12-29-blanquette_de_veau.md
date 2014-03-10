@@ -22,7 +22,7 @@ tags:
 * 1 feuille de laurier
 * 2 cuillers de farine
 * 40 g de beurre
-* 20 cl de crême   
+* 20 cl de crème   
 * un os (optionel)   
 ![image](img/blanquette2.jpg)   
 
@@ -41,7 +41,9 @@ tags:
 10. Dans la cocotte, faire un roux avec le beurre et la farine
 11. Avec un fouet, mouiller ce roux avec le bouillon
 12. Amener à ébullition and faire cuire quelques minutes (5 environ)
-13. Ajouter à cette sauce la viande, les champigons et la carrote coupée en petits segments (Jeter oignon, ail, céleri, thym et laurier)   
+13. Ajouter à cette sauce la viande, les champigons et la carrote coupée en petits segments (Jeter oignon, ail, céleri, thym et laurier)  
+14. Incorporer la crème
+15. Remetre la viande dans la sauve, et laisser infuser 15 minutes au chaud (sans bouillir)  
 ![image](img/blanquette3.jpg) 
 
 ###Notes

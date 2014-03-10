@@ -20,7 +20,7 @@ Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en Franc
 * 2 c. à t. de maïzena
 * thym
 * 1 once de cognac
-* 10 cl de crême
+* 10 cl de crème
 * huile d'olive   
 ![image](img/rognons-de-veau1.jpg)
 
@@ -35,7 +35,7 @@ Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en Franc
 5. Ajouter le cognac
 6. Ajouter la moutarde
 7. Diluer la maïzena dans un peu de jus chaud, et incorporer à la poëlle
-8. Finir par la crême   
+8. Finir par la crème   
 ![image](img/rognons-de-veau5.jpg)
 9. Ajuster sel et poivre
 10. On peut servir avec des pommes de terres   
