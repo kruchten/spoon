@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Pouding Chômeur à l'érable
-
+image: img/pouding-chomeur1.jpg
 tags:
     - Dessert
     - Québec
@@ -9,7 +9,7 @@ tags:
 ---
 
 
-Yields 6 portions
+Pour 6 portions
 
 ##Ingrédients
 
