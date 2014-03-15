@@ -5,6 +5,7 @@ image: img/soupe_de_courge1.jpg
 tags:
     - Soup
     - Vegetarian
+    - Vegan
 
 ---
 
@@ -33,7 +34,4 @@ tags:
 9. Cuire jusqu'à ce que les carottes soient tendre
 10. Passer au mixeur
 11. Décorer les bol d'une cuiller de crème
-
-####Tags
-vegan, soupe
 

@@ -5,6 +5,7 @@ image: img/white_velvet_soup1.jpg
 tags:
     - Soup
     - Vegetarian
+    - Vegan
     
 ---
 
@@ -35,6 +36,3 @@ Serve in bowl, with a drizzle of olive oil and paprika
 ###Notes
 You can use any kind of beans: lima beans, white kidney beans, etc.  
 Avoid eating everything just out of the oven. Remember you are making a soup.
-
-#####Tags
-soup, vegan, Alice

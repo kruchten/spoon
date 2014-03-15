@@ -34,6 +34,3 @@ tags:
 ###Notes
 Servir avec des légumes, du quinoa...
 
-
-#####Tags
-Zoé, main, Noël2013, vegetarian

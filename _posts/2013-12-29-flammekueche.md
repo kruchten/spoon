@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Flammekueche 
+title: Tarte Flambée
 image: img/flammekueche1.jpg
 tags:
     - Alsace
@@ -10,7 +10,7 @@ tags:
 ---
 
 
-L'équivalent alsatien de la pizza. Originellement mangé dans la campagne autour de Strasbourg, l'été, pendant le week-end.
+*Flammekueche* en alsatien: l'équivalent alsatien de la pizza. Originellement mangé dans la campagne autour de Strasbourg, l'été, pendant le week-end.
 
 ## Ingrédients
 Pour une flammekueche (compter 1/2 flammekueche par personne):

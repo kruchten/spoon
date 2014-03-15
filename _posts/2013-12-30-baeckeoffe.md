@@ -49,8 +49,5 @@ La potée alsacienne traditionelle, qu'on traduit par "four du boulanger". Le jo
 ![image](img/baeckeoffe6.jpg)
 15. Cuire 2 heures et demi à 3 heures.
 
-####Tags
-Plat complet   
-servir avec un riesling
 
 
