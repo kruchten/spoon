@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Zozo's basil chicken
-image: img/zoe_chicken_or_tofu4.jpg
+image: img/zoe_chicken_or_tofu0.jpg
 tags:
     - Main Course
     - Meat
@@ -23,14 +23,13 @@ tags:
 ![image](img/zoe_chicken_or_tofu2.jpg)
 
 ##Préparation
-1. Mélanger tous les ingrédients sauf le poulet dans un bol  
-2. Couper le poulet en gros cubes
+1. Mélanger tous les ingrédients sauf le poulet (ou le tofu) dans un bol  
+2. Couper le poulet (ou le tofu) en gros cubes
 2. ![image](img/zoe_chicken_or_tofu5.jpg)
 2. Placer le poulet dans un récipient avec la marinade et laisse reposer pendant au moins une heure      
 ![image](img/zoe_chicken_or_tofu3.jpg)
 3. Faire sauter à la poëlle   
-![image](img/zoe_chicken_or_tofu1.jpg)
- 
-###Notes
-Servir avec des légumes, du quinoa...
+![image](img/zoe_chicken_or_tofu1.jpg)   
+4. Et voilà, servir avec des légumes, du quinoa...     
+![image](img/zoe_chicken_or_tofu4.jpg)    
 
