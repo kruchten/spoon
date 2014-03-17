@@ -9,7 +9,7 @@ tags:
 
 ---
 
-See separate recipe for the confit de carnard = duck confit  
+See separate recipe for the confit de carnard = [duck confit](confit_de_canard.html)  
 
 ##Ingredients
 * 5 legs of duck confit
@@ -32,8 +32,8 @@ See separate recipe for the confit de carnard = duck confit
    * peel off the skin, fat (if any left) etc.
    * scrape meat off the bones with fingers and/or a fork, shred the meat
    * cut shallots in very tiny pieces, one garlic clove.
-   * in a frying pan:put 2 spoonful of duck fat
-    make shallots melt slowly in fat
+   * in a frying pan: put 2 spoonfuls of duck fat
+   * make shallots melt slowly in fat
    * add a little of white wine to avoid shallots to burn
    * add thyme, pepper, maybe a touch of cognac.
    * Add the shredded duck meat, fry rapidly (you may add coriander = flat leave parsley)

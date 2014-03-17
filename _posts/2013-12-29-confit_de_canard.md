@@ -42,8 +42,9 @@ or
 * In a large frying pan, lightly fry the legs skin down (no need to add oil in the pan!)
 * Serve one leg per person
 * Goes well with small potatoes pre-cooked in water, then fried in duck fat, sprinkled with parsley
+* You can also try our recipe of [parmentier de confit de canard](parmentier_confit_canard.html)
 
-##Notes
+##Notes:
 1. [Wikipedia](http://en.wikipedia.org/wiki/Duck_confit) has a good explanation of what "confit" is/means.
 2. And these sites have some OK recipes:<br>
 [http://www.ochef.com/](http://www.ochef.com/593.htm)<br>
