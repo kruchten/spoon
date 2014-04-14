@@ -1,5 +1,6 @@
 permalink: /:title.html
 url: http://nicolas.kruchten.com/recipebook
+markdown: kramdown
 #url: http://air.local:4000
 exclude: 
     - recipe-template.md

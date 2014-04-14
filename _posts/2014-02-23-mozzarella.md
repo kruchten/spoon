@@ -47,7 +47,7 @@ tags:
 18. Now it is ready to use.
 
 ###Notes:
-† Non-homogenized whole milk at 3.25% or more is best. Whole goat milk is good too; it produces a drier cheese. (Should we then put more salt and call it "feta"?)  
+† Non-homogenized whole milk at 3.25% or more is best. Whole goat milk is good too; it produces a drier cheese.  
 †† Thermophilic culture = Streptococcus thermophilus, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (it is similar to what is used to make natural yogurt)   
 ‡ The whey is good; you can drink some, use it in soup, etc... or make ricotta (a spoonful or two)   
 The yield is approx. 480 g of cheese for 4 litres of milk; that's 3.5 litres of whey!
