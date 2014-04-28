@@ -10,7 +10,7 @@ tags:
 ---
 
 ##Ingrédients
-pour 6 personnes:
+Pour 6 personnes:
 
 * 1.250 kg de bœuf (gîte)
 * 250 g de lard maigre fumé (poitrine de porc, schinkenspeck)

@@ -24,13 +24,13 @@ tags:
 1. Hacher menu ail et oignon
 2. Dans une casserole, faire revenir ail et oignon dans de l'huile d'olive
 3. Peler et couper en segment les carottes
-4. ajouter à la casserole
-5. Mettre les courges coupées en 4 sous le grill (500F) for 10 minutes   
+4. Ajouter à la casserole
+5. Mettre les courges coupées en 4 sous le grill (500°F) 10 minutes   
 ![image](img/soupe_de_courge2.jpg)   
 5. Peler et couper en cubes la courge
 6. ajouter à la casserole
 7. Ajouter 1 c à s de curry, et remuer
-8. recouvrir de bouillon (ou d'eau + sel)
+8. Recouvrir de bouillon (ou d'eau + sel)
 9. Cuire jusqu'à ce que les carottes soient tendre
 10. Passer au mixeur
 11. Décorer les bol d'une cuiller de crème

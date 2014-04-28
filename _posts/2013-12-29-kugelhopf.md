@@ -56,7 +56,7 @@ Pour un moule à kugelhopf de 20 cm de diamètre:
 1. Cuire 45 à 50 minutes
 1. Démouler et garnir de sucre glace: utiliser une petite passoire, et tapoter pour faire tomber le sucre.
 
-Délicieux avec de la confiture de framboise.
+Délicieux avec de la confiture de framboise.   
 ###Notes
-Si on met ensemble le lait + levure et les oeufs, on obtient àpeu près 340 g de liquide, soit un taux d'hydration de 68%. Comme il y a du beurre en plus, cela fait environ 72%, soit une pâte assez liquide.   
-"Farie un guydopff" = une pâte qui ne monte pas, en général parce qu'il ne fait pas assez chaud.
+* Si on met ensemble le lait + levure et les oeufs, on obtient à peu près 340 g de liquide, soit un taux d'hydration de 68%. Comme il y a du beurre en plus, cela fait environ 72%, soit une pâte assez liquide.   
+* "Faire un guydopff" = une pâte qui ne monte pas, en général parce qu'il ne fait pas assez chaud.

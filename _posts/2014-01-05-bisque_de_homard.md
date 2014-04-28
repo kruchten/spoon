@@ -24,8 +24,8 @@ Pour 5:
 * concentré de tomates (pour la couleur)
 * citron
 * piment de cayenne
-* cognac (opt)
-* vin blanc (opt)   
+* cognac (opt.)
+* vin blanc (opt.)   
 ![image](img/bisque1.jpg)
 
 
@@ -40,9 +40,9 @@ Pour 5:
 ![image](img/bisque5.jpg)
 5. Dans une casserole, faire revenir oignon et ail, ajouter les carapaces, puis mouiller de vin
 6. Ajouter carotte et céleri, thym et piment de cayenne
-7. Completer avec de l'eau de cuisson
+7. Compléter avec de l'eau de cuisson
 8. Faire bouillir 30 minutes
-9. Pendant ce temps couper la chair en petits morceaux   
+9. Pendant ce temps, couper la chair en petits morceaux   
 ![image](img/bisque4.jpg)
 10. Eliminer les morceaux de carcasse l'oignon le thym et le céleri
 11. Faire un roux avec la farine et le lait, et l'étendre avec le bouillon

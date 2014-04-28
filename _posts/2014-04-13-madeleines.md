@@ -19,7 +19,7 @@ tags:
 
 ## Préparation
 
-1. Pré-chauffer le four à 375 F
+1. Pré-chauffer le four à 375°F
 2. Couper le beurre en petits morceaux pour le ramollir
 2. Gratter le zeste d'un citron   
 ![image](img/madeleines1.jpg)

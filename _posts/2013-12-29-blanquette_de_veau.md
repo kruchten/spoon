@@ -20,7 +20,7 @@ tags:
 * 20 cl de vin blanc sec
 * 1 branche de thynm
 * 1 feuille de laurier
-* 2 cuillers de farine
+* 2 cuillers de farine (40 g)
 * 40 g de beurre
 * 20 cl de crème   
 * un os (optionel)   
@@ -38,15 +38,15 @@ tags:
 8. Laisser mijoter à petit feu pendant 1 heure et demie
 9. Après une heure, ajouter les champigons
 9. Passer tout dans une passoire pour récupérer le bouillon dans un bol
-10. Dans la cocotte, faire un roux avec le beurre et la farine
+10. Dans la cocotte, démarrer un roux blanc avec le beurre et la farine (en quantités égales)
 11. Avec un fouet, mouiller ce roux avec le bouillon
-12. Amener à ébullition and faire cuire quelques minutes (5 environ)
-13. Ajouter à cette sauce la viande, les champigons et la carrote coupée en petits segments (Jeter oignon, ail, céleri, thym et laurier)  
+12. Amener à ébullition et faire cuire doucement quelques minutes en remuant sans cesse (5 min. environ)
+13. Ajouter à cette sauce la viande, les champigons et la carotte coupée en petits segments (Jeter os, oignon, ail, céleri, thym et laurier)  
 14. Incorporer la crème
-15. Remetre la viande dans la sauve, et laisser infuser 15 minutes au chaud (sans bouillir)  
+15. Remetre la viande dans la sauce, et laisser infuser 15 minutes au chaud (sans bouillir)  
 ![image](img/blanquette3.jpg) 
 
 ###Notes
-Le reste de bouillon peut servir de base à une soupe ou autre.   
+Le reste de bouillon peut servir de base à une soupe.   
 Servir avec riz et petits pois, ou avec pommes de terre étuvées.
 

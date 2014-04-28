@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Rognons de veau à la crême et aux champignons
+title: Rognons de veau à la crème et aux champignons
 image: img/rognons-de-veau6.jpg
 
 tags:
@@ -13,7 +13,7 @@ Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en Franc
 
 ##Ingrédients
 * 1 rognon de veau ou plus (approx. 180 g / personne)
-* 2 échallotes (ou un oignon)
+* 2 échalottes (ou un oignon)
 * 2 gousses d'ail
 * 2 c à s de moutarde de Dijon
 * 200 g de champignons

@@ -18,7 +18,7 @@ tags:
 
 Pour servir:
 
-* Petits toasts
+* petits toasts
 * parmesan en lamelle
 * vinaigre balsamique
 
@@ -29,9 +29,9 @@ Pour servir:
 4. poivrer
 5. cuire environ 40 min (consistance sirupeuse)
 6. ajouter le jus de citron vers la fin
-7. Retirer les gousses
-8. Mettre en pot
+7. retirer les gousses de vanille
+8. mettre en pot
 9. Servir sur fines tranches de baguettes toastées avec parmesan en lamelles et une goutte de vinaigre balsamique
 
 ###Notes
-Servir sur de petits toast, recouvert d'une lamelle de parmesan and d'une goutte de vinaigre balsamique
+Servir sur des petits toasts, recouvert d'une lamelle de parmesan et d'une goutte de vinaigre balsamique.
