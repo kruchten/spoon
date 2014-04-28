@@ -29,4 +29,4 @@ tags:
 ![image](img/southern-biscuits.jpg)    
 
 ### Note
-This recipe is pretty flexible, and you can substitute lots of the ingredients or add some in too - i.e. cheese, herbs, spices, etc)
+This recipe is pretty flexible, and you can substitute lots of the ingredients or add some in too - i.e. cheese, herbs, spices, etc.
