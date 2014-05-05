@@ -18,9 +18,8 @@ This is a very spicy and tart sauce to use with grilled meat: steak, poke loin e
 
 ## Preparation
 1. Cook all this for some 15 minutes
-* Pass in a blender
-* Put in small jars
-
+2. Pass in a blender
+3 Put in small jars
 
 ### Notes
-First tasted in the Fable restaurant in Vancouver. Reversed-engineered on Mayne island a couple of week later.
+First tasted in the *Fable restaurant* in Vancouver. Reversed-engineered on Mayne island a couple of week later.

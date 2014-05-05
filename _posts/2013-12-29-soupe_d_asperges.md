@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Crême d'asperges 
+title: Crème d'asperges 
 image: img/soupe_d_asperges4.jpg
 tags:
     - Soup
@@ -40,7 +40,7 @@ tags:
 10. Ebouillanter les têtes d'asperges 3 à 5 minutes   
 ![image](img/soupe_d_asperges1.jpg)
 11. Servir avec les têtes d'asperges
-12. Pour décorer, ajouter de la crème et éventuellement du zeste de citron râpé.
+12. Pour décorer, ajouter de la crème et éventuellement du zeste de citron râpé, ou une feuille de coriandre frais.
 
 ###Notes
 Peut être servi glacé en été.
