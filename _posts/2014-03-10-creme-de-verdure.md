@@ -9,8 +9,7 @@ tags:
 ---
 ## Ingrédients
 * 300 g épinards
-* 300 g cresson
-* 300 g de cresson (ou orties, ou rapini, qqchose de vert)
+* 300 g cresson (ou orties, ou rapini, qqchose de vert)
 * 1 échalote
 * 1 oignon
 * 1 gousse d'ail
