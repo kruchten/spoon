@@ -9,7 +9,7 @@ tags:
 ---
 ## Ingrédients
 * 300 g épinards
-* 300 g cresson (ou orties, ou rapini, qqchose de vert)
+* 300 g cresson (ou orties, ou rapini, fanes de betteraves, qqchose de vert)
 * 1 échalote
 * 1 oignon
 * 1 gousse d'ail
@@ -22,7 +22,8 @@ tags:
 1. Émincer et faire revenir oignon, échalotte et ail dans une c.à.s. d'huile (5 min.)
 2. Equeuter et laver les épinards et le cresson. Essorer.  
 3. Rajouter les épinards et le cresson; faire frire pendant 3 minutes.
-4. Ajouter 1.5 l d'eau. Amenez à ébuillition, couvrir et faire cuire à feu doux pendant 30 min.
+4. Ajouter 1.5 l d'eau. Amenez à ébuillition, couvrir et faire cuire à feu doux pendant 30 min.   
+![image](img/creme-de-verdure5.jpg)   
 5. Ajouter la crème et la noix de muscade, (et sel poivre)
 5. Mixer finement (optionnel, mais plus facile à manger)
 6. Faire pocher les oeufs 3 minutes dans de l'eau bouillante vinaigrée
