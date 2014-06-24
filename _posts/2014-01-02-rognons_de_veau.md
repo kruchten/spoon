@@ -41,5 +41,6 @@ Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en Franc
 10. On peut servir avec des pommes de terres   
 ![image](img/rognons-de-veau7.jpg)
 
+![image](img/rognons5.jpg)
 ###Notes
 Les champignons sont en fait optionels. Comme les rognons ne se vendent pas au détail, on peut ajuster la quantité totale au nombre de convives en modulant la quantité de champignons. 
