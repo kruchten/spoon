@@ -15,6 +15,9 @@ tags:
     (voir les tags existants sur le site)
 ---
 ## Ingrédients
-
+* nnn
+* 
 
 ## Préparation
+1. do this
+2. do that
