@@ -9,18 +9,19 @@ tags:
 ---
 ##Ingredients
 * 4 litres of milk (min. 2%)†
-* 1/2 pack thermophilic culture†† 
+* 1/2 pack thermophilic culture†† or 1/8 tsp
 * 1/2 tsp rennet
 * 1/8 tsp lipase (mild)
 * 150 g salt (for the brine)
 * thermometer (0-100°C)
 * kitchen gloves for the kneading
+* (Optional: pH meter, or pH strips)
 
 ##Preparation
 1. Heat milk to 32°C (90°F) on medium heat
 2. Dissolve thermophilic culture and lipase in a bit of water
 3. Add this to the warm milk, stir well, cover
-4. Let rest for 30+ minutes
+4. Let rest for 30+ minutes to an hour (pH < 6.5)
 5. Dissolve the rennet in a bit of water
 6. Add rennet to milk, stir well, cover  
 ![image](img/mozzarella7.jpg)  
@@ -35,7 +36,7 @@ tags:
 ![image](img/mozzarella4.jpg)
 13. Keep the pot with the curds in a hot bath in the sink at about 40°C (104°F)   
 ![image](img/mozzarella9.jpg)   
-14. For 2 1/2 hour, drain off once in a while the whey and flip the curds over
+14. For 2 1/2 hour, drain off once in a while the whey and flip the curds over. (Target pH = 5.2)
 15. Put the curds in 75°C (190°F) water, with a strainer. Let them warm up. Take half of them out.
 15. Separate the curds in small chunks (2 cm), and then knead them with your hands (gloved, it's hot); do the other half; this take 5 to 15 minutes.  
 ![image](img/mozzarella5.jpg)
@@ -48,7 +49,7 @@ tags:
 
 ###Notes:
 † Non-homogenized whole milk at 3.25% or more is best. Whole goat milk is good too; it produces a drier cheese.  
-†† Thermophilic culture = Streptococcus thermophilus, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (it is similar to what is used to make natural yogurt)   
-‡ The whey is good; you can drink some, use it in soup, etc... or make ricotta (a spoonful or two)   
+†† Thermophilic culture = Streptococcus thermophilus salivarius, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (it is similar to what is used to make natural yogurt). Example: Danisco's Choozit TM 81   
+‡ The whey is good; you can drink some, use it in a soup, etc... or make ricotta (a spoonful or two)   
 The yield is approx. 480 g of cheese for 4 litres of milk; that's 3.5 litres of whey!
 With goat milk however, the ricotta is richer, smoother and more abundant. 
