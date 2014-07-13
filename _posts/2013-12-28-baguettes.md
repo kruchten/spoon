@@ -56,8 +56,8 @@ Diviser en 6 pâtons de 280 g, faire des boules allongées
 20 min couvert d'un torchon de lin propre 
 
 7. Façonnage: 
-Faire des baguettes (voir  [youtube videos](http://www.youtube.com/watch?v=fdNRogR10nM))
-
+Faire des baguettes (voir  [youtube videos](http://www.youtube.com/watch?v=fdNRogR10nM))    
+![image](img/baguettes21.jpg)![image](img/baguettes22.jpg)![image](img/baguettes23.jpg)   
 8. Apprêt (= 3ième fermentation):
 40 minutes à 1h30 couvert d'un torchon de lin propre,   
 t=18°C min (20°C à 22°C pour accélerer)   
