@@ -7,40 +7,40 @@ tags:
     
 ---
 
-Hydration: 64% (par exemple: 1,000g farine pour 640 g eau)
+Hydration 64% veut dire  640 g eau pour 1,000 g de farine.
 
 ## Ingrédients
 * 1 kg de farine
-* 640 g d'eau  (64%)
+* 640 g d'eau  (hydration: 64%)
 * 20 g sel (2%) (3.5 c.à.t.)
 * 12 g de levure sèche (= 2 c.à.t.)   
 
 ## Préparation
 
 1. Pré-ferment (aussi appelé "poolish"):   
-300 g eau tiède (25°C)  
-6 g levure sèche (diluer la levure dans l'eau tiède)   
+300 g eau tiède (à 25°C)  
+6 g levure sèche; diluer la levure dans l'eau tiède   
 300 g farine blanche bio   
 Bien mélanger avec une cuiller en bois   
 Couvrir d'un film plastique   
-Laisser reposer 6 à 12h, temp. 20-23°C       
+Laisser reposer 6 à 12h, température 20-23°C       
 ![image](img/baguettes4.jpg)
 
 2. Frasage:
-Poolish +
+Toute la poolish, plus:
 340 g eau,  
 5 g levure sèche (diluée dans l'eau tiède) 
 700 g farine,  
 20 g sel,  
 3 min frasage vitesse 1   
-*Alternative* (c-a-d sans préfermentation):  1000 g farine + 650 g eau + 10 g levure + 20 g sel 
+*Alternative* (c-à-d sans préfermentation):  1000 g farine + 640 g eau + 10 g levure + 20 g sel 
 
 3. Pétrissage:   
-4 min pétrissage vitesse 2 (ou 12 min à la main; la musique aide...)  
+4 minutes pétrissage vitesse 2 (ou 12 min à la main; la musique aide...)  
 température cible: 25°C   
 ![image](img/baguettes11.jpg)  
 
-4. Pointage  (=2ème fermentation)  
+4. Pointage  (= 2ème fermentation)  
 2 heures à 25°C, couvert d'un fil plastique 
 (si la cuisine est froide, mettre dans le four avec la lampe allumée)   
 Rabattre 1 ou 2 fois (après 20 minutes, et après 60 minutes)  
@@ -53,7 +53,7 @@ Diviser en 6 pâtons de 280 g, faire des boules allongées
 ![image](img/baguettes10.jpg)
 
 6. Détente:
-20 min couvert d'un torchon de lin propre 
+20 minutes couvert d'un torchon de lin propre 
 
 7. Façonnage: 
 Faire des baguettes (voir  [youtube videos](http://www.youtube.com/watch?v=fdNRogR10nM))    
@@ -70,11 +70,11 @@ avec un couteau très affuté, ou mieux: une lame de rasoir, faire des entailles
 ![image](img/baguettes6.jpg)
 
 10. Cuisson:   
-26 min. Démarrer à 550°F    
+26 min. Démarrer à 260°C (550°F)    
 Quand le four est chaud, jeter 1 tasse d'eau dans une lèche-frite  
 pour produire de la vapeur  
-Baisser température à 475°F après 6 minutes  
+Baisser température à 240°C (475°F) après 6 minutes  
 
 11. Resuage:   
-Sur une grille, 25 min  
+Sur une grille, 25 minutes  
 ![image](img/baguettes8.jpg)
