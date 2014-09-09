@@ -1,6 +1,6 @@
 # The Kruchten Family Recipe Book
 
-http://nicolas.kruchten.com/recipebook/
+http://kruchten.com/spoon
 
 To submit a recipe:
 * make a copy of the file `recipe-template.md`
