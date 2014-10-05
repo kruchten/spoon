@@ -17,9 +17,10 @@ This is a very spicy and tart sauce to use with grilled meat: steak, or pork loi
 * 1 tbsp pectin crystals
 
 ## Preparation
-1. Cook all this for some 15 minutes
-2. Pass in a blender
+1. Cook all this for some 15 minutes, or more; until it thickens a bit.
+2. Pass in a blender for some 5-8 seconds
 3. Put in small jars
 
 ### Notes
-First tasted in the *Fable restaurant* in Vancouver. Reversed-engineered on Mayne island a couple of week later.
+* First tasted in the *Fable restaurant* in Vancouver. Reversed-engineered on Mayne island a couple of week later.
+* Tried also with peaches instead of strawberries.
