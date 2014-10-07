@@ -1,4 +1,5 @@
-# The Kruchten Family Recipe Book
+# La Grenouille et la Cuillère en Bois
+##or: What the Kruchtens Eat
 
 http://kruchten.com/spoon
 
