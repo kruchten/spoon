@@ -16,7 +16,7 @@ tags:
 * 40 g de farine
 * 1 pincée de sel
 * 3 oeufs
-* kirch
+* kirch (ou Cointreau)
 * moule à manqué 22 cm (h=5 cm)
 * papier parchemin
 
@@ -24,8 +24,8 @@ tags:
 
 1. travailler à la spatule la moitié du sucre avec la poudre d'amandes
 2. dans un autre bol, travailler au fouet le beurre avec le reste du sucre
-3. ajouter les amandes, et continuer à travailler le tou
+3. ajouter les amandes, et continuer à travailler le tout
 4. incorporer un à un les oeufs en travaillant bien la pâte entre chaque oeuf
 5. ajouter la farine, le sel et le kirch
 6. verser dans le moule, beurré et/ou garni de papier parchemin
-7. cuire 40 min au four 350°F (170°C ou th 5)
+7. cuire 40 min au four 350°F (170°C ou th. 5)
