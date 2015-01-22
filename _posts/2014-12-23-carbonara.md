@@ -35,8 +35,9 @@ Pour 7:
 
 ### notes
 * pas de crème
-* pas de lardons  
+* pas de lard  
+* pas de sel, car la pancetta est déjà très salée
 
 ![image](img/carbonara5.jpg)
 
-
+![image](img/carbonara6.jpg)
