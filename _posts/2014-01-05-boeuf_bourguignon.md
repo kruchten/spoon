@@ -16,7 +16,7 @@ Pour 6 personnes:
 * 250 g de lard maigre fumé (poitrine de porc, schinkenspeck)
 * 1 oignon
 * 1 gousse d'ail
-* 1 carotte (opt.)
+* 1 carotte (optionnel)
 * un morceau de céleri (opt.)
 * 1 bouteille de bourgogne (ou n'importe quel autre *pinot noir*)
 * 2 cuillerées de farine
