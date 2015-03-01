@@ -28,18 +28,18 @@ tags:
 
 ##Préparation
 1. Peler l'oignon, et piquer les clous de girofle sur le sommet
-2. Peler la carotte, couper-la en deux
+2. Peler la carotte et couper la en deux
 3. Peler le morceau de céleri
 4. Dans une cocotte, faire revenir le veau dans un peu d'huile   
 ![image](img/blanquette4.jpg) 
 5. Ajouter les légumes et herbes, et mouiller de vin
-6. Recouvrir juste a raz avec de l'eau
+6. Recouvrir juste à raz avec de l'eau
 7. Saler et poivrer
 8. Laisser mijoter à petit feu pendant 1 heure et demie
 9. Après une heure, ajouter les champigons
 9. Passer tout dans une passoire pour récupérer le bouillon dans un bol
 10. Dans la cocotte, démarrer un roux blanc avec le beurre et la farine (en quantités égales)
-11. Avec un fouet, mouiller ce roux avec le bouillon
+11. En remuant sans cesse vec un fouet, mouiller ce roux avec le bouillon
 12. Amener à ébullition et faire cuire doucement quelques minutes en remuant sans cesse (5 min. environ)
 13. Ajouter à cette sauce la viande, les champigons et la carotte coupée en petits segments (Jeter os, oignon, ail, céleri, thym et laurier)  
 14. Incorporer la crème
