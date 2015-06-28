@@ -11,7 +11,7 @@ Recipes used with [Black & Decker B2300 Breadmaker](/breadmaker.pdf).
 
 ## Whole Wheat/White mix
 
-Use setting #5, medium, 2 lbs.
+Use setting #5, medium darkness, 2 lbs.
 
 * 1&frac12; cups water
 * 2 tbsp butter
@@ -24,7 +24,7 @@ Use setting #5, medium, 2 lbs.
 
 ## Whole Wheat
 
-Use setting #5, medium, 2 lbs. From [Diana Dishes](https://dianadishes.wordpress.com/2013/01/09/bread-machine-whole-wheat-bread/).
+Use setting #5, medium darkness, 2.5 lbs. From [Diana Dishes](https://dianadishes.wordpress.com/2013/01/09/bread-machine-whole-wheat-bread/).
 
 * 1&frac12; cups + 6 tbsp warm water
 * 4 tbsp olive oil 
