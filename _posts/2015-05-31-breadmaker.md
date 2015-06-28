@@ -17,7 +17,7 @@ Use setting #5, medium, 2 lbs.
 * 2 tbsp butter
 * 2 tsp salt
 * 3 tbsp skim milk powder
-* &frac13; cup brown sugar
+* &#8531; cup brown sugar
 * 2 cups white flour
 * 2 cups whole wheat flour
 * 2 tsp yeast
