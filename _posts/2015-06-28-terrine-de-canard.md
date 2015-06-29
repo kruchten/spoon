@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: x
+title: Terrine de Canard
 image: img/terrine-de-canard1.jpg  
 tags:
     - Appetizer
