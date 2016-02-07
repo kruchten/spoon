@@ -26,9 +26,10 @@ Use setting #5, medium darkness, 2 lbs.
 
 Use setting #5, medium darkness, 2.5 lbs. From [Diana Dishes](https://dianadishes.wordpress.com/2013/01/09/bread-machine-whole-wheat-bread/).
 
-* 1&frac12; cups + 6 tbsp warm water
-* 4 tbsp olive oil 
+* 2 cups warm water
+* &frac14; cups olive oil 
 * &frac12; cups sugar
 * 3 tsp salt
-* 5&frac12; cups whole wheat flour
-* 4&frac12; tsp active dry yeast
+* &frac12; cups ground flax (or whole wheat flour)
+* 5 cups whole wheat flour
+* 4 tsp active dry yeast
