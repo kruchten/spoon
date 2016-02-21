@@ -10,14 +10,16 @@ tags:
 ---
 
 
-##Ingrédients
+## Ingrédients
+
 * 350 g de coquilles St. Jacques
 * beurre
 * courgettes
 * riz
 * persil (opt.)
 
-##Préparation
+## Préparation
+
 1. Couper les courgettes en lamelles
 * Faire cuire au micro-ondes 1 minute
 * Faire revenir dans un peu de beurre dans une poëlle
@@ -27,6 +29,7 @@ tags:
 * Servir avec du riz
 * Décorer d'un peu de persil
 
-###Notes:
+### Notes:
+
 Au Canada, le "corail" sert de nourriture pour chat... :-(
 
