@@ -11,7 +11,8 @@ tags:
 
 Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en France, mais très bon marché en Amérique du nord. Profitons-en!   
 
-##Ingrédients
+## Ingrédients
+
 * 1 rognon de veau ou plus (approx. 180 g / personne)
 * 2 échalottes (ou un oignon)
 * 2 gousses d'ail
@@ -24,7 +25,8 @@ Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en Franc
 * huile d'olive   
 ![image](img/rognons-de-veau1.jpg)
 
-##Préparation
+## Préparation
+
 1. Emincer l'ail et les échallotes et faire blondir dans une grande poëlle avec un peu de thym et du poivre   
 ![image](img/rognons-de-veau3.jpg)
 2. Couper le rognon en lamelles    
@@ -42,5 +44,7 @@ Le rognon de veau (veal kidney or calf kidney) est très prisé et cher en Franc
 ![image](img/rognons-de-veau7.jpg)
 
 ![image](img/rognons5.jpg)
-###Notes
+
+### Notes 
+
 Les champignons sont en fait optionels. Comme les rognons ne se vendent pas au détail, on peut ajuster la quantité totale au nombre de convives en modulant la quantité de champignons. 

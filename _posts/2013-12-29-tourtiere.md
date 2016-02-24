@@ -10,7 +10,7 @@ tags:
 ---
 
 
-##Ingrédients
+## Ingrédients
 
 * 1/2 lb. de veau haché
 * 1 lb. de porc haché
@@ -20,14 +20,15 @@ tags:
 * 1/4 de c. à thé de clou de girofle, de cannelle, au goût (très peu)
 * 1 abaisse de pâte
 
-###Pâte
+### Pâte
+
 * 250 g de farine
 * 150 g de beurre (mou)
 * 8 g de sel
 * 1 oeuf
 * 5 cl d'eau (environ)
 
-##Préparation
+## Préparation
 
 1. Mélanger la viande aux épices.
 ![image](img/tourtiere1.JPG)
@@ -39,7 +40,8 @@ tags:
 1. Déposer dans l'abaisse, recouvrir de pâte et cuire au four à 400°C
 ![image](img/tourtiere4.JPG)
 
-###Pâte
+### Pâte
+
 1. Travailler tous les ingrédients secs et le beurre
 2. Ajouter l'oeuf, puis l'eau petit à petit
 3. Laisser reposer au frigo 1 heure minimum

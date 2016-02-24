@@ -24,6 +24,7 @@ tags:
 ![image](img/soupe_d_asperges5.jpg)
 
 ## Préparation
+
 1. Emincer oignon et ail
 2. Faire revenir dans de l'huile (d'olive)
 3. Séparer les têtes d'asperges   
@@ -42,7 +43,8 @@ tags:
 11. Servir avec les têtes d'asperges
 12. Pour décorer, ajouter de la crème et éventuellement du zeste de citron râpé, ou une feuille de coriandre frais.
 
-###Notes
+### Notes
+
 Peut être servi glacé en été.
 
 

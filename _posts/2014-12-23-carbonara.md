@@ -33,7 +33,8 @@ Pour 7:
 10. tourner doucement   
 ![image](img/carbonara3.jpg)
 
-### notes
+### Notes
+
 * pas de crème
 * pas de lard  
 * pas de sel, car la pancetta est déjà très salée

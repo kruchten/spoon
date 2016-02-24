@@ -10,7 +10,8 @@ tags:
 ---
 
 
-##Ingrédients
+## Ingrédients
+
 Pour 5:
 
 * 5 petites queues de homard
@@ -31,6 +32,7 @@ Pour 5:
 
 
 ## Préparation
+
 1. Dégelez les queues de homard si surgelées (1/2 h dans l'eau tiède)
 2. Faire bouillir les queues dans un minimum d'eau   
 ![image](img/bisque2.jpg)

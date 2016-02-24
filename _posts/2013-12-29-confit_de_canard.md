@@ -11,7 +11,8 @@ tags:
 
 It is not hard, just long.  My take is the bare-bone one, as the sophistication resides in what you do with your confit later. You can flavour your confit in a second step, when you use it, which may be 3 weeks later, so I often dispense from all the all the herbs, garlic etc. you may find in recipes.
 
-##Ingredients
+## Ingredients
+
 * one whole duck
 or
 * 4 or 5 duck legs, maybe breasts
@@ -21,7 +22,8 @@ or
 * Ground black pepper
 
 
-##Preparation
+## Preparation
+
 1. Cut the duck, keep side all the fat, skin etc.<br>![image](img/confit_de_canard1.jpg)
 2. get the duck fat out of the skins etc. in a pan, filter it with a sieve
 3. Rub duck pieces in coarse salt, put aside for 6 - 12 hours; you may add a bit of dry thyme leaves and black pepper <br>![image](img/confit_de_canard2.jpg)
@@ -36,7 +38,8 @@ or
 1. Cover with pure fat
 1. Keep in fridge until needed
  
-##Serving
+## Serving
+
 * Melt the fat in oven at 170-220°F (Takes half an hour at least)
 * Fish out with tongs the pieces you need
 * In a large frying pan, lightly fry the legs skin down (no need to add oil in the pan!)
@@ -44,7 +47,8 @@ or
 * Goes well with small potatoes pre-cooked in water, then fried in duck fat, sprinkled with parsley
 * You can also try our recipe of [parmentier de confit de canard](parmentier_confit_canard.html)
 
-##Notes:
+## Notes:
+
 1. [Wikipedia](http://en.wikipedia.org/wiki/Duck_confit) has a good explanation of what "confit" is/means.
 2. And these sites have some OK recipes:<br>
 [http://www.ochef.com/](http://www.ochef.com/593.htm)<br>

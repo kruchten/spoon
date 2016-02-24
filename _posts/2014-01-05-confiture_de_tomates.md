@@ -9,7 +9,8 @@ tags:
     
 ---
 
-##Ingrédients
+## Ingrédients
+
 * 2 livres de tomates
 * 1 livre de sucre en poudre
 * 1 gousse de vanille
@@ -22,7 +23,8 @@ Pour servir:
 * parmesan en lamelle
 * vinaigre balsamique
 
-##Préparation
+## Préparation
+
 1. Peler les tomates
 2. couper les tomates en cubes
 3. trancher la gousse dans la longueur et gratter un peu l'intérieur
@@ -33,5 +35,6 @@ Pour servir:
 8. mettre en pot
 9. Servir sur fines tranches de baguettes toastées avec parmesan en lamelles et une goutte de vinaigre balsamique
 
-###Notes
+### Notes
+
 Servir sur des petits toasts, recouvert d'une lamelle de parmesan et d'une goutte de vinaigre balsamique.

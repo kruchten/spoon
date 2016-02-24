@@ -13,6 +13,7 @@ tags:
 *Flammekueche* en alsatien: l'équivalent alsatien de la pizza. Originellement mangé dans la campagne autour de Strasbourg, l'été, pendant le week-end.
 
 ## Ingrédients
+
 Pour une flammekueche (compter 1/2 flammekueche par personne):
 
 - 150 g farine
@@ -29,6 +30,7 @@ Pour une flammekueche (compter 1/2 flammekueche par personne):
 - Optionel: du gruyère râpé
 
 ## Préparation
+
 1. Faire une pâte à pain
 2. laisser reposer et monter (20 à 25 degrés C)
 3. Mélanger maïzena avec crème liquide, puis avec le yaourt (si crème épaisse, mouiller d'un peu de lait)

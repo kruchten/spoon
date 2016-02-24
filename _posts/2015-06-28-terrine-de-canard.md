@@ -9,6 +9,7 @@ tags:
 
 ---
 ## Ingrédients
+
 * All the meat from a duck, or alternatively, 3 duck breast (600 - 700 g)
 * 300g of lean veal meat
 * 300 g of bacon
@@ -21,6 +22,7 @@ tags:
 * 1 tbsp of cognac
 
 ## Préparation
+
 1. Grind all the meat
 2. Mix throughly with salt and spices
 2. Add egg and cognac and continue to mix, then the pistachios

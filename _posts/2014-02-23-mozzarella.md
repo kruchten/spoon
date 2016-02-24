@@ -7,7 +7,8 @@ tags:
     - Cheese
     
 ---
-##Ingredients
+## Ingredients
+
 * 4 litres of milk (min. 2%)†
 * 1/2 pack thermophilic culture†† or 1/8 tsp
 * 1/2 tsp rennet
@@ -17,7 +18,8 @@ tags:
 * kitchen gloves for the kneading
 * (Optional: pH meter, or pH strips)
 
-##Preparation
+## Preparation
+
 1. Heat milk to 32°C (90°F) on medium heat
 2. Dissolve thermophilic culture and lipase in a bit of water
 3. Add this to the warm milk, stir well, cover
@@ -47,7 +49,8 @@ tags:
 17. Wait at least an hour in the brine.
 18. Now it is ready to use.
 
-###Notes:
+### Notes:
+
 † Non-homogenized whole milk at 3.25% or more is best. Whole goat milk is good too; it produces a drier cheese.  
 †† Thermophilic culture = Streptococcus thermophilus salivarius, Lactobacillus delbrueckii bulgaricus, Lactobacillus helveticus (it is similar to what is used to make natural yogurt). Example: Danisco's Choozit TM 81   
 ‡ The whey is good; you can drink some, use it in a soup, etc... or make ricotta (a spoonful or two)   

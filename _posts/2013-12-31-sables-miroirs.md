@@ -9,7 +9,8 @@ tags:
     
 ---
 
-##Ingredients
+## Ingredients
+
 * 250 g farine
 * 180 g beurre mou
 * 80 g sucre
@@ -19,7 +20,8 @@ tags:
 * sucre glace
 * confiture de framboise ou gelée de groseille
 
-##Préparation
+## Préparation
+
 1. Mettre la farine et le sucre dans un grand bol
 2. Faire un cratère au milieu
 3. Mettre les jaunes d'oeuf, la vanille et une cuiller d'eau   
@@ -40,6 +42,7 @@ tags:
 11. Glacer le cadre avec un mélange d'eau et de sucre glace
 12. Lorsque le cadre est bien sec, couler au milieu un peu de gelée de groseille
 
-###Notes
+### Notes
+
 On peut aussi faire des formes plus simples avec cette même pâte, ou le reste de pâte.   
 ![image](img/sables-miroirs4.jpg)

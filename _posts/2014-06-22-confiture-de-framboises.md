@@ -9,12 +9,14 @@ tags:
     
 ---
 ## Ingrédients
+
 * 2 kg de framboises
 * 1.8 kg de sucre en poudre
 * 2 citrons
 ![image](img/framboise8.jpg)   
 
 ## Préparation
+
 1. Bien nettoyer les pots et les stériliser: 10 minutes au four à 250°F ou 150°C
 2. Mettre les fruits le sucre et les jus de citron dans une très grande marmite.    
 ![image](img/framboise1.jpg)

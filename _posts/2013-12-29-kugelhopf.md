@@ -58,6 +58,7 @@ Pour un moule à kugelhopf de 20 cm de diamètre:
 
 Délicieux avec de la confiture de framboise.   
 
-###Notes
+### Notes
+
 * Si on met ensemble le lait + levure et les oeufs, on obtient à peu près 340 g de liquide, soit un taux d'hydration de 68%. Comme il y a du beurre en plus, cela fait environ 72%, soit une pâte assez liquide.   
 * "Faire un guydopff" = une pâte qui ne monte pas, en général parce qu'il ne fait pas assez chaud.

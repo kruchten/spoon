@@ -9,7 +9,8 @@ tags:
 
 ---
 
-##Ingrédients
+## Ingrédients
+
 * 1 tasse de riz (Carnaroli, ou à défaut Arborio)
 * 2 poireaux
 * 150 g de champigons divers frais
@@ -26,7 +27,8 @@ tags:
 * cognac (opt.)
 * citron (opt.)
 
-##Préparation
+## Préparation
+
 1. Dans un litre d'eau, mettre un cube de bouillon de légumes
 2. Ajouter les herbes et poivrer
 3. porter à ébulition

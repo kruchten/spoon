@@ -9,7 +9,8 @@ tags:
 ---
 
 
-##Ingrédients
+## Ingrédients
+
 * veau coupé en gros cubes, 150 g / personne
 * 1 carotte
 * un morceau de racine de céleri
@@ -26,7 +27,8 @@ tags:
 * un os (optionel)   
 ![image](img/blanquette2.jpg)   
 
-##Préparation
+## Préparation
+
 1. Peler l'oignon, et piquer les clous de girofle sur le sommet
 2. Peler la carotte et couper la en deux
 3. Peler le morceau de céleri
@@ -46,7 +48,8 @@ tags:
 15. Remetre la viande dans la sauce, et laisser infuser 15 minutes au chaud (sans bouillir)  
 ![image](img/blanquette3.jpg) 
 
-###Notes
+### Notes
+
 Le reste de bouillon peut servir de base à une soupe.   
 Servir avec riz et petits pois, ou avec pommes de terre étuvées.
 

@@ -12,7 +12,8 @@ tags:
 
 La potée alsacienne traditionelle, qu'on traduit par "four du boulanger". Le jour de la lessive, ma grand-mère et ses voisines envoyaient tôt le matin un gamin chez le boulanger avec la terrine. Après avoir fini son pain, le boulanger mettait ces terrines dans le four où elles cuisaient jusque vers midi. D'autres disent que cela était plutôt le dimanche matin pour pouvoir assister au service religieux, mais les boulangers en Alsace étaient fermés le dimanche, donc cela ne colle pas....
 
-##Ingrédients
+## Ingrédients
+
 * Pommes de terre
 * 250 g de porc
 * 250 d'agneau
@@ -27,7 +28,8 @@ La potée alsacienne traditionelle, qu'on traduit par "four du boulanger". Le jo
 * 100 g de farine   
 ![image](img/baeckeoffe1.jpg)
 
-##Préparation
+## Préparation
+
 1. Couper la viande en gros cubes
 2. Peler et émincer les oignons
 3. Peler et couper la carrote

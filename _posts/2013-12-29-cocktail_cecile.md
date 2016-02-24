@@ -9,7 +9,7 @@ tags:
 ---
 
 
-##Ingredients
+## Ingredients
 
 (per person)
 
@@ -18,6 +18,6 @@ tags:
 * 3cL slightly sweet cranberry juice
 * ice
 
-##Preparation
+## Preparation
 
 1. Mix and enjoy

@@ -9,7 +9,8 @@ tags:
     
 ---
 
-##Ingrédients
+## Ingrédients
+
 Pour 6 personnes:
 
 * 1.250 kg de bœuf (gîte)
@@ -25,7 +26,7 @@ Pour 6 personnes:
 * Optionel: petits champignons ronds (dits "de Paris")   
 ![image](img/bourguignon3.jpg)
 
-##Préparation
+## Préparation
 
 1. Couper le bœuf en morceaux
 2. Ebouillanter rapidement le bœuf, et le rincer.   

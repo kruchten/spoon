@@ -7,7 +7,7 @@ tags:
 
 ---
 
-##Ingrédients
+## Ingrédients
 Par personne:
 
 * 1 banane
@@ -17,7 +17,8 @@ Par personne:
 * 1 boule de glace à la vanille
 * beurre   
 
-##Préparation
+## Préparation
+
 1. Peler les bananes
 2. Couper les bananes en deux dans le sens de la longueur     
 ![image](img/bananes_flambees3.jpg)

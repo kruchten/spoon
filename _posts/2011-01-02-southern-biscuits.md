@@ -10,6 +10,7 @@ tags:
   
 ---
 ## Ingredients
+
 * 2 cups flour
 * 2tsp baking powder
 * 1/4tsp baking soda
@@ -18,6 +19,7 @@ tags:
 * 3/4 cup milk (very cold)
 
 ## Preparation
+
 1. Heat oven to 425 degrees.  
 2. Mix/sift all dry ingredients together.   
 3. Cut in the butter, using your hands or a pastry cutter. If using your hands, work quickly to avoid melting the butter.  
@@ -29,4 +31,5 @@ tags:
 ![image](img/southern-biscuits.jpg)    
 
 ### Note
+
 This recipe is pretty flexible, and you can substitute lots of the ingredients or add some in too - i.e. cheese, herbs, spices, etc.

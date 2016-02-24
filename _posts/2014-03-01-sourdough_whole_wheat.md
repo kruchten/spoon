@@ -10,7 +10,8 @@ This recipe was inspired by the *Tartine Bread* (Chad Roberston, in SFO), as des
 * Pollan has a 92% hydration level, which I found is way too liquid for me; mine is about 77%  
 * I bake my loaves on a stone, with steam for the first 10 minutes, not in a Dutch oven.   
 
-##Ingredients
+## Ingredients
+
 For the leaven (in French: levain):  
 
 * 150 g of sourdough starter culture   
@@ -32,7 +33,8 @@ Then for the main build:
 * 50 g of water  
 * 5 g of yeast (1 tsp)   
 
-##Instructions
+## Instructions
+
 The night before:  
 
 1. Prepare a leaven with 100 to 150 g of your best culture, mixed with 200 g of white flour and 200 g of water. Cover and let rest in warm area (20°C)  
@@ -60,6 +62,7 @@ Then the next day:
 ![image](img/sourdough-country4.jpg)    
 ![image](img/sourdough-country3.jpg)  
 
-###Notes
+### Notes
+
 No, Alice, do not throw cold water on a 500°F (260°C) hot Pyrex dish.   
 ![image](img/sourdough-country99.jpg) 

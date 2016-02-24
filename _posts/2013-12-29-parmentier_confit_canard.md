@@ -11,7 +11,8 @@ tags:
 
 See separate recipe for the confit de carnard = [duck confit](confit_de_canard.html)  
 
-##Ingredients
+## Ingredients
+
 * 5 legs of duck confit
 * 5 potatoes
 * milk
@@ -19,7 +20,8 @@ See separate recipe for the confit de carnard = [duck confit](confit_de_canard.h
 * egg yolk
 * 6 shallots
 
-##Preparation
+## Preparation
+
 1. Mashed potatoes:
    * peel potatoes, cut in small pieces, rinse in cold water
    * boil until tender (20 min)
@@ -48,7 +50,8 @@ See separate recipe for the confit de carnard = [duck confit](confit_de_canard.h
       * but I favour the shallot fondue (chopped shallots, cooked slowly very long, until a little brown, use white wine to avoid burning; a dash of cognac...)
    * pass in the oven under the grill for browning the topping.
 
-###Notes
+### Notes
+
 Here is a richer version:
 [http://www.aftouch-cuisine.com/recipe/parmentier-with-duck,-foie-gras-and-truffles-338.htm](http://www.aftouch-cuisine.com/recipe/parmentier-with-duck,-foie-gras-and-truffles-338.htm)
 

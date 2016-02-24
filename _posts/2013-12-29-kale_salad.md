@@ -9,7 +9,8 @@ tags:
 ---
 
 
-##Ingredients
+## Ingredients
+
 * 1 pack fresh goat cheese
 * 1 or 2 bunch of kale
 * 2 handfuls of walnuts (or pecans)
@@ -17,7 +18,8 @@ tags:
 * Olive oil
 * Balsamic vinegar
 
-##Preparation
+## Preparation
+
 1. Toast the walnut rapidly in a small frying pan   
 ![image](img/kale-salad2.jpg)
 2. Cut the kale very small, removing the stems   

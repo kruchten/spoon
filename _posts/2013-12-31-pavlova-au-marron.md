@@ -9,7 +9,8 @@ tags:
 ---
 
 
-##Ingrédients
+## Ingrédients
+
 * 3 blancs d'oeuf
 * 100 g + 30 g de sucre glace
 * 1 boîte de purée de marrons (440 g)
@@ -18,7 +19,8 @@ tags:
 * 30 cl de crême liquide   
 ![image](img/pavlova-au-marron3.jpg)
 
-##Préparation
+## Préparation
+
 Meringue:
 
 1. Préchauffer le four à 140°C (285°F)
@@ -47,5 +49,6 @@ Chantilly:
 Assembler meringue, crême de marron et chantilly
 
 
-###Notes
+### Notes
+
 On trouve de la crême de marron, déjà sucrée.

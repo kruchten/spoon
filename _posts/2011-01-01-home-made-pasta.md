@@ -8,6 +8,7 @@ tags:
 
 ---
 ## Ingredients
+
 * 1 cup semolina flour
 * 1 cup white flour
 * 3 eggs
@@ -15,6 +16,7 @@ tags:
 * 1/2 teaspoon olive oil
 
 ## Preparation
+
 1. Mix all wet ingredients together and all dry ingredients together.  
 2. Add the wet ingredients to the dry. The dough should be stiff but workable.  
 3. Knead for about 10 minutes, then place to rest for 20 minutes, wrapped in plastic wrap.
@@ -26,5 +28,6 @@ tags:
 
 
 ### Note
+
 You need a pasta machine:   
 ![image](img/pasta-machine.jpg)

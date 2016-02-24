@@ -8,6 +8,7 @@ tags:
     
 ---
 ## Ingrédients
+
 * 300 g épinards
 * 300 g cresson (ou orties, ou rapini, fanes de betteraves, qqchose de vert)
 * 1 échalote
@@ -20,6 +21,7 @@ tags:
 ![image](img/creme-de-verdure3.jpg)   
 
 ## Préparation   
+
 1. Émincer et faire revenir oignon, échalotte et ail dans une c.à.s. d'huile (5 min.)
 2. Equeuter et laver les épinards et le cresson. Essorer.  
 3. Rajouter les épinards et le cresson; faire frire pendant 3 minutes.
