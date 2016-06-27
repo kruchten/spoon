@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Linzertorte
+image: img/Linzertorte.jpg 
 tags:
     - Dessert
     - Alsace
