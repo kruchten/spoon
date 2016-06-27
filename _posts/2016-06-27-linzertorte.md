@@ -15,12 +15,12 @@ tags:
 * 3 jaunes d’oeuf crus
 * 2 jaunes d’oeuf cuits émiettés
 * 2 clous de girofle pilés (ou clou de girofle en poudre)
-*1/2 c. à café de cannelle
+* 1/2 c. à café de cannelle
 * 1 gousse de vanille
-1 citron
-2 cl de kirsch
-(optionnel) 1 c. à café de cacao (pour la couleur)
-1 pot de confiture de framboise
+* 1 citron
+* 2 cl de kirsch
+* (optionnel) 1 c. à café de cacao (pour la couleur)
+* 1 pot de confiture de framboise
 
 ## Préparation
 
