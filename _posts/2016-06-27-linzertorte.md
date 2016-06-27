@@ -39,8 +39,8 @@ tags:
 12. Abaisser le reste le la pâte au rouleau (bien fariné)
 13. Découper des bandes
 14. Disposer les bandes en quadrillage
-15. Dorer la surface au pointeau avec du jaune d’oeuf dilué d’un  peu d’eau
-16. Cuire à 180 deg C (350 F) pendant 30 à 40 minutes
+15. Dorer la surface au pinceau avec du jaune d’oeuf dilué d’un peu d’eau
+16. Cuire à 180&deg;C (350&deg;F) pendant 30 à 40 minutes
 
 ### Notes
 
