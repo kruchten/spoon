@@ -43,5 +43,5 @@ tags:
 16. Cuire à 180&deg;C (350&deg;F) pendant 30 à 40 minutes
 
 ### Notes
-
+* pour la confiture voir [confiture de framboises](http://kruchten.com/spoon/confiture-de-framboises.html)
 * Se garde bien pendant plusieurs jours

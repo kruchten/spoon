@@ -5,6 +5,8 @@ image: img/cheesecake1.jpg
 tags:
     - Dessert
 ---
+Sylvie's recipe.
+
 ## Ingredients
 * 250 g of graham crackers*
 * 80 g of butter
@@ -12,7 +14,7 @@ tags:
 * 150 g of granulated sugar
 * 3 eggs
 * 2 tablespoons of cream
-* 1 vanilla pod
+* 1 vanilla pod (or a few drops of vanilla extract if no pod available)
 
 ## Preparation
 1. Preheat oven at 400&deg;F (200&deg;C)
@@ -28,11 +30,11 @@ tags:
 9. Incorporate them in the cream cheese filling
 10. Reduce oven temperature to 350&deg;F (180&deg;C)
 11. Put the filling on top of the crust
-12. Bake for 30 to 40 minutes
+12. Bake for 30 to 40 minutes (top should nto turn brown)
 13. Let cake cool progressively in oven with the door open
 
 ### Notes:
-Graham Crackers: look for the brand Honey Maid / P'tite Abeille.  
+Graham Crackers: look for the brand _Honey Maid / P'tite Abeille_.  
 This recipe has no flour.  
 Once cooled down, you can decorate the cake with seasonal fruits: strawberries, raspberries, blueberries...  
-Or you can go for a raspberry coulis, or  amango purée....
+Or you can go for a raspberry coulis, or  a mango purée....
