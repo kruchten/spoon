@@ -8,7 +8,7 @@ tags:
 Sylvie's recipe.
 
 ## Ingredients
-* 250 g of graham crackers*
+* 250 g of Graham crackers*
 * 80 g of butter
 * 500 g of cream cheese
 * 150 g of granulated sugar
@@ -18,7 +18,7 @@ Sylvie's recipe.
 
 ## Preparation
 1. Preheat oven at 400&deg;F (200&deg;C)
-2. Crumble the crackers in a large bowl
+2. Crumble the Graham crackers in a large bowl
 3. Melt the butter (microwave)
 4. Mix the butter with the crackers
 5. Press this mixture in the cake mold; making a bit of an edge  
@@ -34,7 +34,6 @@ Sylvie's recipe.
 13. Let cake cool progressively in oven with the door open
 
 ### Notes:
-Graham Crackers: look for the brand _Honey Maid / P'tite Abeille_.  
-This recipe has no flour.  
-Once cooled down, you can decorate the cake with seasonal fruits: strawberries, raspberries, blueberries...  
-Or you can go for a raspberry coulis, or  a mango purée....
+* Graham Crackers: look for the brand _Honey Maid / P'tite Abeille_. They also sell  already ground, but this is a bit too fine.  
+* This recipe has no flour.  
+* Once cooled down, you can decorate the cake with seasonal fruits: strawberries, raspberries, blueberries... Or you can go for a raspberry coulis, or a mango purée....
