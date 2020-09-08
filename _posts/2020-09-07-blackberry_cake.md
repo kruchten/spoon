@@ -21,7 +21,7 @@ For 2 cakes or one large 9-inch (25 cm) round pan:
 * 1 1/2 cup sugar
 * Zest of half an orange
 * 4 eggs
-* 1  1/2 cups of blackberries (or blueberrires)
+* 1  1/2 cups of blackberries (or blueberries)
 * Icing sugar to serve (optional) 
 
 ## Préparation
