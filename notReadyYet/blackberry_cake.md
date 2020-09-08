@@ -36,4 +36,4 @@ For 2 cakes or one large 9-inch
 9. Unmould and dust with icing sugar.
 
 ## Notes
-* Adapted from Tara O'Brady, The Globe and Mail 26 August 2010.
+* Adapted from Tara O'Brady, *The Globe and Mail,* 26 August 2020.
