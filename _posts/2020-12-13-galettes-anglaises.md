@@ -31,7 +31,7 @@ tags:
 6. Faire des tubes longs, de 3 cm de diamètre, roulés dans un film plastique
 ![image2](img/galettes-anglaises-3.jpg)
 7. Mettre au frigo pendant une heure
-8. Allumer le four à 325 F (160 C) (th. 4-5)
+8. Allumer le four à 325&deg;F (160&deg;C) (th. 4-5)
 9. Découper avec un grand couteau des ronds assez minces, et les disposer sur une plaque (avec du papier parchemin) assez espacés car ils gonflent.
 ![image2](img/galettes-anglaises-4.jpg)
 ![image2](img/galettes-anglaises-5.jpg)
